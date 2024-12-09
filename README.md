@@ -29,7 +29,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|czech|chinese|finnish|french|german|hungarian|italian|korean|polish|portuguese|russian|spanish|swedish|turkish|ukrainian|vietnamese|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|$\color{red}{\textsf{52.9 \%}}$|$\color{red}{\textsf{46.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{4.9 \%}}$|$\color{red}{\textsf{30.4 \%}}$|$\color{red}{\textsf{2.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{43.1 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{33.3 \%}}$|$\color{red}{\textsf{2.9 \%}}$|$\color{red}{\textsf{2.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{5.9 \%}}$|$\color{red}{\textsf{1.0 \%}}$|
+|Translated mods|$\color{red}{\textsf{60.0 \%}}$|$\color{red}{\textsf{49.5 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{5.3 \%}}$|$\color{red}{\textsf{32.6 \%}}$|$\color{red}{\textsf{2.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{46.3 \%}}$|$\color{red}{\textsf{1.1 \%}}$|$\color{red}{\textsf{35.8 \%}}$|$\color{red}{\textsf{3.2 \%}}$|$\color{red}{\textsf{2.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{6.3 \%}}$|$\color{red}{\textsf{1.1 \%}}$|
 
 ## Mods translation details
 
@@ -52,7 +52,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[forge](https://github.com/vcmi-mods/forge)|x|x|||x||||x||x||||||
 |[ai trace](https://github.com/vcmi-mods/ai-trace)|||||||||||||||||
 |[mac demo support](https://github.com/vcmi-mods/mac-demo-support)|||||||||||||||||
-|[ai testing maps](https://github.com/vcmi-mods/ai-testing-maps)|||||||||||||||||
+|[ai testing maps](https://github.com/vcmi-mods/ai-testing-maps)|x||||||||||||||||
 |[campaign-heroes](https://github.com/vcmi-mods/campaign-heroes)|x|x|||x||||||x||||||
 |[tarnum](https://github.com/vcmi-mods/tarnum)|x|x|||x||||x||||||||
 |[magic-fader](https://github.com/vcmi-mods/magic-fader)|x|x|||||||x||x||||||
@@ -76,15 +76,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[new-interface-mod](https://github.com/vcmi-mods/new-interface-mod)|||||||||||||||||
 |[hi-rez-menu](https://github.com/vcmi-mods/hi-rez-menu)|x||||||||||||||||
 |[greenhouse-town](https://github.com/vcmi-mods/greenhouse-town)|||||x||||||x||||||
-|[sand-tower](https://github.com/vcmi-mods/sand-tower)|||||||||||||||||
-|[autumn-rampart](https://github.com/vcmi-mods/autumn-rampart)|||||||||||||||||
-|[another-rampart](https://github.com/vcmi-mods/another-rampart)|||||||||||||||||
-|[red-castle](https://github.com/vcmi-mods/red-castle)|||||||||||||||||
-|[lotrd-townscreens](https://github.com/vcmi-mods/lotrd-townscreens)|||||||||||||||||
-|[ghost-necropolis](https://github.com/vcmi-mods/ghost-necropolis)|||||||||||||||||
-|[quartz](https://github.com/vcmi-mods/quartz)|||||||||||||||||
-|[snow-in-Tower](https://github.com/vcmi-mods/snow-in-Tower)|||||||||||||||||
-|[snow-castle](https://github.com/vcmi-mods/snow-castle)|||||||||||||||||
+|[lotrd-townscreens](https://github.com/vcmi-mods/lotrd-townscreens)|x||||||||||||||||
 |[boost-ai](https://github.com/vcmi-mods/boost-ai)|x|x|||||||||||||||
 |[an-expansion](https://github.com/vcmi-mods/an-expansion)||||||||||||||||x|
 |[refugee-town](https://github.com/vcmi-mods/refugee-town)||x||x|x||||x||x||||||
@@ -137,3 +129,4 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[heroes3-extended-soundtrack](https://github.com/vcmi-mods/heroes3-extended-soundtrack)|x||||||||||||||||
 |[hq-music](https://github.com/vcmi-mods/hq-music)|x||||||||x||||||||
 |[new-sfx-sounds](https://github.com/vcmi-mods/new-sfx-sounds)|x||||||||||||||||
+|[alternate-townscreens](https://github.com/vcmi-mods/alternate-townscreens)|x||||||||||||||||
