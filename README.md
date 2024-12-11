@@ -29,7 +29,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|czech|chinese|finnish|french|german|hungarian|italian|korean|polish|portuguese|russian|spanish|swedish|turkish|ukrainian|vietnamese|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|$\color{red}{\textsf{60.0 \%}}$|$\color{red}{\textsf{49.5 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{5.3 \%}}$|$\color{red}{\textsf{32.6 \%}}$|$\color{red}{\textsf{2.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{46.3 \%}}$|$\color{red}{\textsf{1.1 \%}}$|$\color{red}{\textsf{35.8 \%}}$|$\color{red}{\textsf{3.2 \%}}$|$\color{red}{\textsf{2.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{6.3 \%}}$|$\color{red}{\textsf{1.1 \%}}$|
+|Translated mods|$\color{red}{\textsf{64.2 \%}}$|$\color{red}{\textsf{49.5 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{5.3 \%}}$|$\color{red}{\textsf{32.6 \%}}$|$\color{red}{\textsf{2.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{46.3 \%}}$|$\color{red}{\textsf{1.1 \%}}$|$\color{red}{\textsf{35.8 \%}}$|$\color{red}{\textsf{3.2 \%}}$|$\color{red}{\textsf{2.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{6.3 \%}}$|$\color{red}{\textsf{1.1 \%}}$|
 
 ## Mods translation details
 
@@ -69,11 +69,11 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[abyss-town](https://github.com/vcmi-mods/abyss-town)|x|x||x|x||||x||x||||||
 |[retreat-town](https://github.com/vcmi-mods/retreat-town)||x||x|x||||x||x||||||
 |[cetatea-town](https://github.com/vcmi-mods/cetatea-town)||x|||x||||x||x||||||
-|[andruids-spell-balance](https://github.com/vcmi-mods/andruids-spell-balance)|||||||||||||||||
+|[andruids-spell-balance](https://github.com/vcmi-mods/andruids-spell-balance)|x||||||||||||||||
 |[new-old-spells-plus](https://github.com/vcmi-mods/new-old-spells-plus)|x|x|||x||||x||x||||||
 |[portraits-packs](https://github.com/vcmi-mods/portraits-packs)|x||||||||||||||||
 |[heroes-iii-orchestra](https://github.com/vcmi-mods/heroes-iii-orchestra)|x||||||||||||||||
-|[new-interface-mod](https://github.com/vcmi-mods/new-interface-mod)|||||||||||||||||
+|[new-interface-mod](https://github.com/vcmi-mods/new-interface-mod)|x||||||||||||||||
 |[hi-rez-menu](https://github.com/vcmi-mods/hi-rez-menu)|x||||||||||||||||
 |[greenhouse-town](https://github.com/vcmi-mods/greenhouse-town)|||||x||||||x||||||
 |[lotrd-townscreens](https://github.com/vcmi-mods/lotrd-townscreens)|x||||||||||||||||
@@ -86,11 +86,11 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[ab-bad-ending-assets](https://github.com/vcmi-mods/ab-bad-ending-assets)|x|x|||||||||||||||
 |[ab-bad-ending-maps](https://github.com/vcmi-mods/ab-bad-ending-maps)|||||||||||||||||
 |[warzyw-templates](https://github.com/vcmi-mods/warzyw-templates)||x|||||||||||||||
-|[ensrick-portraits](https://github.com/vcmi-mods/ensrick-portraits)|||||||||||||||||
+|[ensrick-portraits](https://github.com/vcmi-mods/ensrick-portraits)|x||||||||||||||||
 |[morns-battlefields](https://github.com/vcmi-mods/morns-battlefields)|x||||||||||||||||
 |[towns-new-views](https://github.com/vcmi-mods/towns-new-views)|x||||||||||||||||
 |[campaings-pack](https://github.com/vcmi-mods/campaings-pack)|||||||||||||||||
-|[dydzios-map-pack](https://github.com/vcmi-mods/dydzios-map-pack)|||||||||||||||||
+|[dydzios-map-pack](https://github.com/vcmi-mods/dydzios-map-pack)|x||||||||||||||||
 |[h3-campaigns-remade](https://github.com/vcmi-mods/h3-campaigns-remade)|||||||||||||||||
 |[zefix](https://github.com/vcmi-mods/zefix)|x||||||||x||||||||
 |[adventure-spells-pack](https://github.com/vcmi-mods/adventure-spells-pack)|x|x|||||||x||||||||
