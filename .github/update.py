@@ -8,7 +8,6 @@ import pandas as pd
 import defusedxml.ElementTree as ET
 
 
-
 # https://stackoverflow.com/a/18381470 (Onur Yıldırım, CC BY-SA 4.0)
 def remove_comments(string):
     pattern = r"(\".*?\"|\'.*?\')|(/\*.*?\*/|//[^\r\n]*$)"
