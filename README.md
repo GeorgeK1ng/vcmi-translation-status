@@ -29,7 +29,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|czech|chinese|finnish|french|german|hungarian|italian|korean|polish|portuguese|russian|spanish|swedish|turkish|ukrainian|vietnamese|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|$\color{red}{\textsf{64.2 \%}}$|$\color{red}{\textsf{48.4 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{5.3 \%}}$|$\color{red}{\textsf{32.6 \%}}$|$\color{red}{\textsf{2.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{45.3 \%}}$|$\color{red}{\textsf{1.1 \%}}$|$\color{red}{\textsf{38.9 \%}}$|$\color{red}{\textsf{3.2 \%}}$|$\color{red}{\textsf{2.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{6.3 \%}}$|$\color{red}{\textsf{1.1 \%}}$|
+|Translated mods|$\color{red}{\textsf{65.3 \%}}$|$\color{red}{\textsf{49.5 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{5.3 \%}}$|$\color{red}{\textsf{33.7 \%}}$|$\color{red}{\textsf{3.2 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{46.3 \%}}$|$\color{red}{\textsf{1.1 \%}}$|$\color{red}{\textsf{40.0 \%}}$|$\color{red}{\textsf{3.2 \%}}$|$\color{red}{\textsf{2.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{7.4 \%}}$|$\color{red}{\textsf{1.1 \%}}$|
 
 ## Mods translation details
 
@@ -129,4 +129,4 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[hq-music](https://github.com/vcmi-mods/hq-music)|x||||||||x||||||||
 |[new-sfx-sounds](https://github.com/vcmi-mods/new-sfx-sounds)|x||||||||||||||||
 |[alternate-townscreens](https://github.com/vcmi-mods/alternate-townscreens)|x||||||||||||||||
-|[a-song-of-ice-and-fire](https://github.com/vcmi-mods/a-song-of-ice-and-fire)|||||||||||||||||
+|[a-song-of-ice-and-fire](https://github.com/vcmi-mods/a-song-of-ice-and-fire)|x|x|||x|x|||x||x||||x||
