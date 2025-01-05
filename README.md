@@ -29,7 +29,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|czech|chinese|finnish|french|german|hungarian|italian|korean|polish|portuguese|russian|spanish|swedish|turkish|ukrainian|vietnamese|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|$\color{red}{\textsf{64.3 \%}}$|$\color{red}{\textsf{51.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{5.1 \%}}$|$\color{red}{\textsf{32.7 \%}}$|$\color{red}{\textsf{3.1 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{50.0 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{40.8 \%}}$|$\color{red}{\textsf{3.1 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{7.1 \%}}$|$\color{red}{\textsf{1.0 \%}}$|
+|Translated mods|$\color{red}{\textsf{63.6 \%}}$|$\color{red}{\textsf{50.5 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{5.1 \%}}$|$\color{red}{\textsf{32.3 \%}}$|$\color{red}{\textsf{3.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{49.5 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{40.4 \%}}$|$\color{red}{\textsf{3.0 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{7.1 \%}}$|$\color{red}{\textsf{1.0 \%}}$|
 
 ## Mods translation details
 
@@ -74,6 +74,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[portraits-packs](https://github.com/vcmi-mods/portraits-packs)|x||||||||||||||||
 |[heroes-iii-orchestra](https://github.com/vcmi-mods/heroes-iii-orchestra)|x||||||||||||||||
 |[new-interface-mod](https://github.com/vcmi-mods/new-interface-mod)|x||||||||||||||||
+|[medusa-mod](https://github.com/vcmi-mods/medusa-mod)|||||||||||||||||
 |[hi-rez-menu](https://github.com/vcmi-mods/hi-rez-menu)|x||||||||||||||||
 |[greenhouse-town](https://github.com/vcmi-mods/greenhouse-town)|||||x||||||x||||||
 |[lotrd-townscreens](https://github.com/vcmi-mods/lotrd-townscreens)|x||||||||||||||||
