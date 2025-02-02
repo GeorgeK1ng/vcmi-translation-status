@@ -132,7 +132,7 @@ def translation_mod_ratio(translation_mods_translation):
 
     for language in [key for key, value in translation_mods_translation.items() if key != "english"]:
         data_ns = {}
-        namespaces = [None, "map", "campaign"]
+        namespaces = [None, "map", "campaign", "chronicles"]
         for namespace in namespaces:
             translation = translation_mods_translation[language]
             count_equal = 0
