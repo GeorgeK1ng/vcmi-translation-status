@@ -89,6 +89,8 @@ def get_translation_mods():
 def get_translation_mods_translation():
     translation_mods = get_translation_mods()
     data = {}
+    chronicles_data = {}
+
     for key, value in translation_mods.items():
         tmp = {}
         for item in value[1]["translations"]:
@@ -97,8 +99,15 @@ def get_translation_mods_translation():
                 tmp_str = urllib.request.urlopen(base_url + item).read()
             except:
                 tmp_str = urllib.request.urlopen((base_url + item).replace("content", "Content").replace("config", "Config")).read()
-            tmp |= load_vcmi_json(tmp_str)
+            
+            if "chronicles.json" in item:
+                chronicles_data[key] = load_vcmi_json(tmp_str)
+            else:
+                tmp |= load_vcmi_json(tmp_str)
+
         data[key] = tmp
+
+    #return data, chronicles_data
     return data
 
 def get_translation_mods_translation_assets():
