@@ -263,13 +263,12 @@ def create_md():
 
     for mod, mod_data in tmp.items():
         df = pd.concat([df, pd.DataFrame({
-            "Mod": "[" + mod_data["name"] + "](https://github.com/vcmi-mods/" + mod.replace(" ", "-") + ")",
             "Type": mod_data["modType"],
+            "Mod": "[" + mod_data["name"] + "](https://github.com/vcmi-mods/" + mod.replace(" ", "-") + ")",
             **{x: ["x" if x in mod_data["languages"] else ""] for x in languages_translate}
         })], ignore_index=True)
 
     df = df.sort_values(by=["Type", "Mod"])
-
 
     df = df.T.reset_index().T
     md.new_table(columns=df.shape[1], rows=df.shape[0], text=df.to_numpy().flatten(), text_align='center')
