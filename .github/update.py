@@ -198,7 +198,10 @@ def get_mod_translations(languages):
         mod = load_vcmi_json(urllib.request.urlopen(url).read())
 
         mod_name = mod.get("name", key)
-        mod_type = mod.get("modType", "unknown")
+        mod_type = mod.get("modType", "unknown").lower()
+
+        if mod_type == "translation":
+            continue
 
         found_languages = []
         for language in languages:
