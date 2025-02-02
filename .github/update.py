@@ -259,7 +259,7 @@ def create_md():
 
     md.new_header(level=2, title="Mods translation details")
     tmp = get_mod_translations(languages_translate)
-    df = pd.DataFrame(columns=["Mod", "Type"] + languages_translate)
+    df = pd.DataFrame(columns=["Type", "Mod"] + languages_translate)
 
     for mod, mod_data in tmp.items():
         df = pd.concat([df, pd.DataFrame({
