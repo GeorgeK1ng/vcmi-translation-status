@@ -132,7 +132,7 @@ def translation_mod_ratio(translation_mods_translation):
 
     for language in [key for key, value in translation_mods_translation.items() if key != "english"]:
         data_ns = {}
-        namespaces = [None, "map", "campaign", "chronicles"]
+        namespaces = [None, "map", "campaign"]
         for namespace in namespaces:
             translation = translation_mods_translation[language]
             count_equal = 0
@@ -183,15 +183,21 @@ def get_qt_translations(languages):
 def get_mod_translations(languages):
     vcmi_mods = get_mod_repo()
     data = {}
+    
     for key, value in vcmi_mods.items():
         url = value["mod"].replace(" ", "%20")
         mod = load_vcmi_json(urllib.request.urlopen(url).read())
-        if "language" not in mod:
-            found_languages = []
-            for language in languages:
-                if language in mod:
-                    found_languages.append(language)
-            data[key] = found_languages
+
+        mod_name = mod.get("name", key)
+        mod_type = mod.get("modType", "unknown")
+
+        found_languages = []
+        for language in languages:
+            if language in mod:
+                found_languages.append(language)
+
+        data[key] = {"name": mod_name, "modType": mod_type, "languages": found_languages}
+
     return data
 
 def create_md():
@@ -244,14 +250,23 @@ def create_md():
 
     md.new_header(level=2, title="Mods translation details")
     tmp = get_mod_translations(languages_translate)
-    df = pd.DataFrame(columns=["Mod"] + languages_translate)
-    for mod in tmp:
-        df = pd.concat([df, pd.DataFrame({"Mod": "[" + mod + "](https://github.com/vcmi-mods/" + mod.replace(" ", "-") + ")"} | {x:["x" if x in tmp[mod] else ""] for x in languages_translate})], ignore_index=True)
+    df = pd.DataFrame(columns=["Mod", "Type"] + languages_translate)
+
+    for mod, mod_data in tmp.items():
+        df = pd.concat([df, pd.DataFrame({
+            "Mod": "[" + mod_data["name"] + "](https://github.com/vcmi-mods/" + mod.replace(" ", "-") + ")",
+            "Type": mod_data["modType"],
+            **{x: ["x" if x in mod_data["languages"] else ""] for x in languages_translate}
+        })], ignore_index=True)
+
+    df = df.sort_values(by=["Type", "Mod"])
+
+
     df = df.T.reset_index().T
     md.new_table(columns=df.shape[1], rows=df.shape[0], text=df.to_numpy().flatten(), text_align='center')
 
     return md.get_md_text()
-
+    
 if __name__ == "__main__":
     with open(os.path.join('.', 'README.md'), "w") as f:
         f.write(create_md())
