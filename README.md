@@ -34,121 +34,121 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 ## Mods translation details
 
-|Mod|Type|czech|chinese|finnish|french|german|hungarian|italian|korean|polish|portuguese|russian|spanish|swedish|turkish|ukrainian|vietnamese|
+|Type|Mod|czech|chinese|finnish|french|german|hungarian|italian|korean|polish|portuguese|russian|spanish|swedish|turkish|ukrainian|vietnamese|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[AI - disable speedups](https://github.com/vcmi-mods/ai-disable-speedups)|AI|||||||||||||||||
-|[Boost AI](https://github.com/vcmi-mods/boost-ai)|AI|x|x|||||||x||||||||
-|[Extreme AI](https://github.com/vcmi-mods/extreme-ai)|AI|x||||||||x||||||||
-|[Overall AI Bonuses](https://github.com/vcmi-mods/overall-ai-bonus)|AI||x|||||||||||||||
-|[Combine Grail](https://github.com/vcmi-mods/combine-grail)|Artifacts|x|x|||||||x||||||||
-|[Fused Artifacts](https://github.com/vcmi-mods/fused-artifacts)|Artifacts|x||||||||x||||||||
-|[Moon Artifacts](https://github.com/vcmi-mods/moon-artifacts)|Artifacts|x|x|||||||x||||||||
-|[Witchking artifacts](https://github.com/vcmi-mods/witchking-artifacts)|Artifacts|x|x|||||||x||x||||||
-|[New Monsters Pack](https://github.com/vcmi-mods/new-monsters-pack)|Creatures|x|x|||x||||x||x||||||
-|[Reworked Commanders](https://github.com/vcmi-mods/reworked-commanders)|Creatures|x||||||||||||||||
-|[An's Expansion](https://github.com/vcmi-mods/an-expansion)|Expansion||||||||||||||||x|
-|[Andruids Expansion Mods](https://github.com/vcmi-mods/andruids-expansion)|Expansion|x|x|||||||x||x||||||
-|[Antagarich Burning - maps](https://github.com/vcmi-mods/ab-bad-ending-maps)|Expansion|||||||||||||||||
-|[Antagarich Burning](https://github.com/vcmi-mods/ab-bad-ending-assets)|Expansion|x|x|||||||x||x||||||
-|[Crossroads of Worlds](https://github.com/vcmi-mods/crossroads-of-worlds)|Expansion||x|||||||||||||||
-|[H3Evo](https://github.com/vcmi-mods/h3Evo)|Expansion|||||||||||||||||
-|[Horn of the Abyss](https://github.com/vcmi-mods/horn-of-the-abyss)|Expansion|x|x|||x||||x||x|x|||x||
-|[In The Wake of Gods](https://github.com/vcmi-mods/wake-of-gods)|Expansion|x|x|||x||||x||x|x|||x||
-|[Invite hero](https://github.com/vcmi-mods/tavern-invite)|Expansion|x|x|||x||||||||||||
-|[Third Upgrades Mod](https://github.com/vcmi-mods/third-upgrades)|Expansion||x|||||||||x||||||
-|[Tides of War](https://github.com/vcmi-mods/tides-of-war)|Expansion|x|x|||x||||x||x|x|||x||
-|[Alternative town screens](https://github.com/vcmi-mods/alternate-townscreens)|Graphical|x||||||||||||||||
-|[Ensrick's Portrait Pack](https://github.com/vcmi-mods/ensrick-portraits)|Graphical|x||||||||||||||||
-|[Erathian font [read description!]](https://github.com/vcmi-mods/erathian-font)|Graphical|x||||||||||||||||
-|[Hero movement arrows](https://github.com/vcmi-mods/movement-arrows)|Graphical|x||||||||||||||||
-|[Improved towns screens](https://github.com/vcmi-mods/lotrd-townscreens)|Graphical|x||||||||||||||||
-|[Morn's Battlefields](https://github.com/vcmi-mods/morns-battlefields)|Graphical|x||||||||||||||||
-|[Portraits Packs](https://github.com/vcmi-mods/portraits-packs)|Graphical|x||||||||||||||||
-|[Small ERA II mods](https://github.com/vcmi-mods/small-era-mods)|Graphical|x||||||||||||||||
-|[Towns new views](https://github.com/vcmi-mods/towns-new-views)|Graphical|x||||||||||||||||
-|[VCMI extras](https://github.com/vcmi-mods/vcmi-extras)|Graphical|x||||||||x||||||||
-|[Vivid Dwellings](https://github.com/vcmi-mods/vivid-battlefields)|Graphical|x||||||||||||||||
-|[Campaign Heroes](https://github.com/vcmi-mods/campaign-heroes)|Heroes|x|x|||x||||x||x||||||
-|[Immortal cultivation heroes](https://github.com/vcmi-mods/immortal-cultivation-heroes)|Heroes||x|||||||||||||||
-|[Neutral Heroes](https://github.com/vcmi-mods/neutral-heroes)|Heroes|x|x|||x||||x||x||||||
-|[New Old Heroes](https://github.com/vcmi-mods/new-old-heroes)|Heroes|x||||||||x||||||||
-|[Phoenix as a dream](https://github.com/vcmi-mods/phoenix-as-a-dream)|Heroes|x|x|||||||x||||||||
-|[Tarnum is back!](https://github.com/vcmi-mods/tarnum)|Heroes|x|x|||x||||x||||||||
-|[Heroes-o-pedia](https://github.com/vcmi-mods/heroes-o-pedia)|Interface|||||||||||||||||
-|[High-res Menu](https://github.com/vcmi-mods/hi-rez-menu)|Interface|x||||||||||||||||
-|[Main Menu Themes Pack](https://github.com/vcmi-mods/h3-themes)|Interface|x||||||||||||||||
-|[Medusas are the best girls](https://github.com/vcmi-mods/medusa-mod)|Interface|||||||||x||x||||||
-|[New-style Interface](https://github.com/vcmi-mods/new-interface-mod)|Interface|x||||||||||||||||
-|[A Song of Ice & Fire](https://github.com/vcmi-mods/a-song-of-ice-and-fire)|Maps|x|x|||x|x|||x||x||||x||
-|[Campaings pack](https://github.com/vcmi-mods/campaings-pack)|Maps|||||||||||||||||
-|[Czech Map Pack](https://github.com/vcmi-mods/czech-map-pack)|Maps|||||||||||||||||
-|[Dydzio's Map Pack](https://github.com/vcmi-mods/dydzios-map-pack)|Maps|x||||||||||||||||
-|[German Map Pack](https://github.com/vcmi-mods/kartenarchiv-mappack)|Maps|x|x|||x|x|||x||x||||x||
-|[Heroes Chronicles Enhanced](https://github.com/vcmi-mods/chronicles-enhanced)|Maps|x||||||||x||||||||
-|[Mighty Heroes III](https://github.com/vcmi-mods/mighty-heroes-iii)|Maps|x|x|||x|x|||x||x||||x||
-|[Creatures' Hidden Potential](https://github.com/vcmi-mods/creatures-hidden-potential)|Mechanics|x||||||||||||||||
-|[Vampires only gameplay enhancements](https://github.com/vcmi-mods/vampires-only-gameplay-enhancements)|Mechanics|x||||||||||||||||
-|[Heroes 3 Extended Sountrack](https://github.com/vcmi-mods/heroes3-extended-soundtrack)|Music|x||||||||||||||||
-|[Heroes III Orchestra](https://github.com/vcmi-mods/heroes-iii-orchestra)|Music|x||||||||x||||||||
-|[High-Quality Heroes Soundtrack](https://github.com/vcmi-mods/hq-music)|Music|x||||||||x||||||||
-|[New SFX Sounds for Heroes 3](https://github.com/vcmi-mods/new-sfx-sounds)|Music|x||||||||||||||||
-|[Asphalt terrain](https://github.com/vcmi-mods/asphalt-terrain)|Objects|x|x|||||||x||x||||x||
-|[New objects pack](https://github.com/vcmi-mods/object-pack)|Objects|x|x|||||||x||x||||||
-|[New terrains pack](https://github.com/vcmi-mods/newtown-terrains)|Objects|x|x|||||||x||x||||||
-|[Cheat Collection](https://github.com/vcmi-mods/cheat-mod)|Other|||||||||||||||||
-|[Collection of fixes and spices for mods](https://github.com/vcmi-mods/graphics-balance-music)|Other|||||||||||||||||
-|[HoMM3 Campaigns remade](https://github.com/vcmi-mods/h3-campaigns-remade)|Other|||||||||||||||||
-|[MacOS demo assets support](https://github.com/vcmi-mods/mac-demo-support)|Other|||||||||||||||||
-|[Modders' Tool Pack](https://github.com/vcmi-mods/modder-tools-pack)|Other|x||||||||||||||||
-|[Simple Game Balance](https://github.com/vcmi-mods/ultimate-balance)|Other|||||||||||||||||
-|[ZEfix](https://github.com/vcmi-mods/zefix)|Other|x||||||||x||||||||
-|[New Skills Pack](https://github.com/vcmi-mods/new-skills-pack)|Skills|||||||||x||||||||
-|[Adventure Map Spells](https://github.com/vcmi-mods/adventure-spells-pack)|Spells|x|x|||||||x||x||||||
-|[New Magic Balance](https://github.com/vcmi-mods/andruids-spell-balance)|Spells|x||||||||||||||||
-|[New Summoning Spells](https://github.com/vcmi-mods/new-summon-spells)|Spells|x|x|||||||x||x||||||
-|[Old New Spells](https://github.com/vcmi-mods/new-old-spells-plus)|Spells|x|x|||x||||x||x||||||
-|[Custom templates](https://github.com/vcmi-mods/custom-templates)|Templates|||||||||||||||||
-|[Templates pack NT](https://github.com/vcmi-mods/luk3Z-templates-pack)|Templates|x||||||||||||||||
-|[warzyw-templates](https://github.com/vcmi-mods/warzyw-templates)|Templates||x|||||||||||||||
-|[Adventure AI trace](https://github.com/vcmi-mods/adventure-ai-trace)|Test|||||||||||||||||
-|[VCMI maps for AI testing](https://github.com/vcmi-mods/ai-testing-maps)|Test|x||||||||||||||||
-|[Abyss town](https://github.com/vcmi-mods/abyss-town)|Town|x|x||x|x||||x||x||||||
-|[Ark-town](https://github.com/vcmi-mods/ark-town)|Town|||||||||x||x||||||
-|[Asylum Town](https://github.com/vcmi-mods/asylum-town)|Town||x|||x||||x||x||||||
-|[Cathedral Town](https://github.com/vcmi-mods/cathedral-town)|Town|x|x||x|x||||x||x|x|||||
-|[Cetatea](https://github.com/vcmi-mods/cetatea-town)|Town||x|||x||||x||x||||||
-|[Courtyard town](https://github.com/vcmi-mods/courtyard)|Town|x|x|||x||||x||x||||||
-|[Death Valley](https://github.com/vcmi-mods/death-valley-town)|Town|x|x|||x||||x||x||||||
-|[Factory HotA Creatures](https://github.com/vcmi-mods/factory-creatures)|Town|||||||||x||||||||
-|[Fairy town](https://github.com/vcmi-mods/fairy-town)|Town||x|||x||||x||x||||x||
-|[Farriery](https://github.com/vcmi-mods/farriery-town)|Town||x|||||||||x||||||
-|[Forge town](https://github.com/vcmi-mods/forge)|Town|x|x|||x||||x||x||||||
-|[Greenhouse](https://github.com/vcmi-mods/greenhouse-town)|Town|||||x||||||x||||||
-|[Grove town (Trith edition)](https://github.com/vcmi-mods/grove)|Town||x||x|x||||x||x||||||
-|[Haven](https://github.com/vcmi-mods/haven-town)|Town|x|x|||x||||x||x||||||
-|[Heavenly Forge 2000](https://github.com/vcmi-mods/forge2k)|Town||x|||x||||x||x||||x||
-|[Highlands Town](https://github.com/vcmi-mods/highlands-town)|Town||x|||x||||x||x||||||
-|[Kremlin town](https://github.com/vcmi-mods/kremlin-town)|Town||x|||||||x||||||||
-|[Pavilion Town](https://github.com/vcmi-mods/new-pavilion)|Town|x|x||x|x||||x|x|x||||||
-|[Preserve Town](https://github.com/vcmi-mods/preserve-town)|Town||x|||x||||x||x||||||
-|[Refugee Town](https://github.com/vcmi-mods/refugee-town)|Town||x||x|x||||x||x||||||
-|[Retreat](https://github.com/vcmi-mods/retreat-town)|Town||x||x|x||||x||x||||||
-|[Ruins Town](https://github.com/vcmi-mods/ruins-town)|Town|x|x|||x||||x||x||||||
-|[Tartarus Town](https://github.com/vcmi-mods/tartarus-town)|Town||x|||x||||x||x||||||
-|[Chinese translation](https://github.com/vcmi-mods/chinese-translation)|Translation||x|||x||||||||||||
-|[Czech translation](https://github.com/vcmi-mods/czech-translation)|Translation|x||||x||||||||||||
-|[English translation](https://github.com/vcmi-mods/h3-for-vcmi-englisation)|Translation|||||x||||||||||||
-|[Finnish translation](https://github.com/vcmi-mods/finnish-translation)|Translation|||x||x||||||||||||
-|[French translation](https://github.com/vcmi-mods/french-translation)|Translation||||x|x||||||||||||
-|[German translation](https://github.com/vcmi-mods/german-translation)|Translation|||||x||||||||||||
-|[Hungarian translation](https://github.com/vcmi-mods/hungarian-translation)|Translation|||||x|x|||||||||||
-|[Italian translation](https://github.com/vcmi-mods/italian-translation)|Translation|||||x||x||||||||||
-|[Korean translation](https://github.com/vcmi-mods/korean-translation)|Translation|||||x|||x|||||||||
-|[Polish translation](https://github.com/vcmi-mods/polish-translation)|Translation|||||x||||x||||||||
-|[Portuguese (brazilian) translation](https://github.com/vcmi-mods/portuguese-translation)|Translation|||||x|||||x|||||||
-|[Russian translation](https://github.com/vcmi-mods/russian-translation)|Translation|||||x||||||x||||||
-|[Spanish translation](https://github.com/vcmi-mods/spanish-translation)|Translation|||||x|||||||x|||||
-|[Swedish translation](https://github.com/vcmi-mods/swedish-translation)|Translation|||||x||||||||x||||
-|[Turkish translation](https://github.com/vcmi-mods/turkish-translation)|Translation|||||x|||||||||x|||
-|[Ukrainian translation](https://github.com/vcmi-mods/vcmi-mod-ce-ukr)|Translation|||||||||||||||x||
-|[Vietnamese translation](https://github.com/vcmi-mods/vietnamese-translation)|Translation|||||x|||||||||||x|
+|AI|[AI - disable speedups](https://github.com/vcmi-mods/ai-disable-speedups)|||||||||||||||||
+|AI|[Boost AI](https://github.com/vcmi-mods/boost-ai)|x|x|||||||x||||||||
+|AI|[Extreme AI](https://github.com/vcmi-mods/extreme-ai)|x||||||||x||||||||
+|AI|[Overall AI Bonuses](https://github.com/vcmi-mods/overall-ai-bonus)||x|||||||||||||||
+|Artifacts|[Combine Grail](https://github.com/vcmi-mods/combine-grail)|x|x|||||||x||||||||
+|Artifacts|[Fused Artifacts](https://github.com/vcmi-mods/fused-artifacts)|x||||||||x||||||||
+|Artifacts|[Moon Artifacts](https://github.com/vcmi-mods/moon-artifacts)|x|x|||||||x||||||||
+|Artifacts|[Witchking artifacts](https://github.com/vcmi-mods/witchking-artifacts)|x|x|||||||x||x||||||
+|Creatures|[New Monsters Pack](https://github.com/vcmi-mods/new-monsters-pack)|x|x|||x||||x||x||||||
+|Creatures|[Reworked Commanders](https://github.com/vcmi-mods/reworked-commanders)|x||||||||||||||||
+|Expansion|[An's Expansion](https://github.com/vcmi-mods/an-expansion)||||||||||||||||x|
+|Expansion|[Andruids Expansion Mods](https://github.com/vcmi-mods/andruids-expansion)|x|x|||||||x||x||||||
+|Expansion|[Antagarich Burning - maps](https://github.com/vcmi-mods/ab-bad-ending-maps)|||||||||||||||||
+|Expansion|[Antagarich Burning](https://github.com/vcmi-mods/ab-bad-ending-assets)|x|x|||||||x||x||||||
+|Expansion|[Crossroads of Worlds](https://github.com/vcmi-mods/crossroads-of-worlds)||x|||||||||||||||
+|Expansion|[H3Evo](https://github.com/vcmi-mods/h3Evo)|||||||||||||||||
+|Expansion|[Horn of the Abyss](https://github.com/vcmi-mods/horn-of-the-abyss)|x|x|||x||||x||x|x|||x||
+|Expansion|[In The Wake of Gods](https://github.com/vcmi-mods/wake-of-gods)|x|x|||x||||x||x|x|||x||
+|Expansion|[Invite hero](https://github.com/vcmi-mods/tavern-invite)|x|x|||x||||||||||||
+|Expansion|[Third Upgrades Mod](https://github.com/vcmi-mods/third-upgrades)||x|||||||||x||||||
+|Expansion|[Tides of War](https://github.com/vcmi-mods/tides-of-war)|x|x|||x||||x||x|x|||x||
+|Graphical|[Alternative town screens](https://github.com/vcmi-mods/alternate-townscreens)|x||||||||||||||||
+|Graphical|[Ensrick's Portrait Pack](https://github.com/vcmi-mods/ensrick-portraits)|x||||||||||||||||
+|Graphical|[Erathian font [read description!]](https://github.com/vcmi-mods/erathian-font)|x||||||||||||||||
+|Graphical|[Hero movement arrows](https://github.com/vcmi-mods/movement-arrows)|x||||||||||||||||
+|Graphical|[Improved towns screens](https://github.com/vcmi-mods/lotrd-townscreens)|x||||||||||||||||
+|Graphical|[Morn's Battlefields](https://github.com/vcmi-mods/morns-battlefields)|x||||||||||||||||
+|Graphical|[Portraits Packs](https://github.com/vcmi-mods/portraits-packs)|x||||||||||||||||
+|Graphical|[Small ERA II mods](https://github.com/vcmi-mods/small-era-mods)|x||||||||||||||||
+|Graphical|[Towns new views](https://github.com/vcmi-mods/towns-new-views)|x||||||||||||||||
+|Graphical|[VCMI extras](https://github.com/vcmi-mods/vcmi-extras)|x||||||||x||||||||
+|Graphical|[Vivid Dwellings](https://github.com/vcmi-mods/vivid-battlefields)|x||||||||||||||||
+|Heroes|[Campaign Heroes](https://github.com/vcmi-mods/campaign-heroes)|x|x|||x||||x||x||||||
+|Heroes|[Immortal cultivation heroes](https://github.com/vcmi-mods/immortal-cultivation-heroes)||x|||||||||||||||
+|Heroes|[Neutral Heroes](https://github.com/vcmi-mods/neutral-heroes)|x|x|||x||||x||x||||||
+|Heroes|[New Old Heroes](https://github.com/vcmi-mods/new-old-heroes)|x||||||||x||||||||
+|Heroes|[Phoenix as a dream](https://github.com/vcmi-mods/phoenix-as-a-dream)|x|x|||||||x||||||||
+|Heroes|[Tarnum is back!](https://github.com/vcmi-mods/tarnum)|x|x|||x||||x||||||||
+|Interface|[Heroes-o-pedia](https://github.com/vcmi-mods/heroes-o-pedia)|||||||||||||||||
+|Interface|[High-res Menu](https://github.com/vcmi-mods/hi-rez-menu)|x||||||||||||||||
+|Interface|[Main Menu Themes Pack](https://github.com/vcmi-mods/h3-themes)|x||||||||||||||||
+|Interface|[Medusas are the best girls](https://github.com/vcmi-mods/medusa-mod)|||||||||x||x||||||
+|Interface|[New-style Interface](https://github.com/vcmi-mods/new-interface-mod)|x||||||||||||||||
+|Maps|[A Song of Ice & Fire](https://github.com/vcmi-mods/a-song-of-ice-and-fire)|x|x|||x|x|||x||x||||x||
+|Maps|[Campaings pack](https://github.com/vcmi-mods/campaings-pack)|||||||||||||||||
+|Maps|[Czech Map Pack](https://github.com/vcmi-mods/czech-map-pack)|||||||||||||||||
+|Maps|[Dydzio's Map Pack](https://github.com/vcmi-mods/dydzios-map-pack)|x||||||||||||||||
+|Maps|[German Map Pack](https://github.com/vcmi-mods/kartenarchiv-mappack)|x|x|||x|x|||x||x||||x||
+|Maps|[Heroes Chronicles Enhanced](https://github.com/vcmi-mods/chronicles-enhanced)|x||||||||x||||||||
+|Maps|[Mighty Heroes III](https://github.com/vcmi-mods/mighty-heroes-iii)|x|x|||x|x|||x||x||||x||
+|Mechanics|[Creatures' Hidden Potential](https://github.com/vcmi-mods/creatures-hidden-potential)|x||||||||||||||||
+|Mechanics|[Vampires only gameplay enhancements](https://github.com/vcmi-mods/vampires-only-gameplay-enhancements)|x||||||||||||||||
+|Music|[Heroes 3 Extended Sountrack](https://github.com/vcmi-mods/heroes3-extended-soundtrack)|x||||||||||||||||
+|Music|[Heroes III Orchestra](https://github.com/vcmi-mods/heroes-iii-orchestra)|x||||||||x||||||||
+|Music|[High-Quality Heroes Soundtrack](https://github.com/vcmi-mods/hq-music)|x||||||||x||||||||
+|Music|[New SFX Sounds for Heroes 3](https://github.com/vcmi-mods/new-sfx-sounds)|x||||||||||||||||
+|Objects|[Asphalt terrain](https://github.com/vcmi-mods/asphalt-terrain)|x|x|||||||x||x||||x||
+|Objects|[New objects pack](https://github.com/vcmi-mods/object-pack)|x|x|||||||x||x||||||
+|Objects|[New terrains pack](https://github.com/vcmi-mods/newtown-terrains)|x|x|||||||x||x||||||
+|Other|[Cheat Collection](https://github.com/vcmi-mods/cheat-mod)|||||||||||||||||
+|Other|[Collection of fixes and spices for mods](https://github.com/vcmi-mods/graphics-balance-music)|||||||||||||||||
+|Other|[HoMM3 Campaigns remade](https://github.com/vcmi-mods/h3-campaigns-remade)|||||||||||||||||
+|Other|[MacOS demo assets support](https://github.com/vcmi-mods/mac-demo-support)|||||||||||||||||
+|Other|[Modders' Tool Pack](https://github.com/vcmi-mods/modder-tools-pack)|x||||||||||||||||
+|Other|[Simple Game Balance](https://github.com/vcmi-mods/ultimate-balance)|||||||||||||||||
+|Other|[ZEfix](https://github.com/vcmi-mods/zefix)|x||||||||x||||||||
+|Skills|[New Skills Pack](https://github.com/vcmi-mods/new-skills-pack)|||||||||x||||||||
+|Spells|[Adventure Map Spells](https://github.com/vcmi-mods/adventure-spells-pack)|x|x|||||||x||x||||||
+|Spells|[New Magic Balance](https://github.com/vcmi-mods/andruids-spell-balance)|x||||||||||||||||
+|Spells|[New Summoning Spells](https://github.com/vcmi-mods/new-summon-spells)|x|x|||||||x||x||||||
+|Spells|[Old New Spells](https://github.com/vcmi-mods/new-old-spells-plus)|x|x|||x||||x||x||||||
+|Templates|[Custom templates](https://github.com/vcmi-mods/custom-templates)|||||||||||||||||
+|Templates|[Templates pack NT](https://github.com/vcmi-mods/luk3Z-templates-pack)|x||||||||||||||||
+|Templates|[warzyw-templates](https://github.com/vcmi-mods/warzyw-templates)||x|||||||||||||||
+|Test|[Adventure AI trace](https://github.com/vcmi-mods/adventure-ai-trace)|||||||||||||||||
+|Test|[VCMI maps for AI testing](https://github.com/vcmi-mods/ai-testing-maps)|x||||||||||||||||
+|Town|[Abyss town](https://github.com/vcmi-mods/abyss-town)|x|x||x|x||||x||x||||||
+|Town|[Ark-town](https://github.com/vcmi-mods/ark-town)|||||||||x||x||||||
+|Town|[Asylum Town](https://github.com/vcmi-mods/asylum-town)||x|||x||||x||x||||||
+|Town|[Cathedral Town](https://github.com/vcmi-mods/cathedral-town)|x|x||x|x||||x||x|x|||||
+|Town|[Cetatea](https://github.com/vcmi-mods/cetatea-town)||x|||x||||x||x||||||
+|Town|[Courtyard town](https://github.com/vcmi-mods/courtyard)|x|x|||x||||x||x||||||
+|Town|[Death Valley](https://github.com/vcmi-mods/death-valley-town)|x|x|||x||||x||x||||||
+|Town|[Factory HotA Creatures](https://github.com/vcmi-mods/factory-creatures)|||||||||x||||||||
+|Town|[Fairy town](https://github.com/vcmi-mods/fairy-town)||x|||x||||x||x||||x||
+|Town|[Farriery](https://github.com/vcmi-mods/farriery-town)||x|||||||||x||||||
+|Town|[Forge town](https://github.com/vcmi-mods/forge)|x|x|||x||||x||x||||||
+|Town|[Greenhouse](https://github.com/vcmi-mods/greenhouse-town)|||||x||||||x||||||
+|Town|[Grove town (Trith edition)](https://github.com/vcmi-mods/grove)||x||x|x||||x||x||||||
+|Town|[Haven](https://github.com/vcmi-mods/haven-town)|x|x|||x||||x||x||||||
+|Town|[Heavenly Forge 2000](https://github.com/vcmi-mods/forge2k)||x|||x||||x||x||||x||
+|Town|[Highlands Town](https://github.com/vcmi-mods/highlands-town)||x|||x||||x||x||||||
+|Town|[Kremlin town](https://github.com/vcmi-mods/kremlin-town)||x|||||||x||||||||
+|Town|[Pavilion Town](https://github.com/vcmi-mods/new-pavilion)|x|x||x|x||||x|x|x||||||
+|Town|[Preserve Town](https://github.com/vcmi-mods/preserve-town)||x|||x||||x||x||||||
+|Town|[Refugee Town](https://github.com/vcmi-mods/refugee-town)||x||x|x||||x||x||||||
+|Town|[Retreat](https://github.com/vcmi-mods/retreat-town)||x||x|x||||x||x||||||
+|Town|[Ruins Town](https://github.com/vcmi-mods/ruins-town)|x|x|||x||||x||x||||||
+|Town|[Tartarus Town](https://github.com/vcmi-mods/tartarus-town)||x|||x||||x||x||||||
+|Translation|[Chinese translation](https://github.com/vcmi-mods/chinese-translation)||x|||x||||||||||||
+|Translation|[Czech translation](https://github.com/vcmi-mods/czech-translation)|x||||x||||||||||||
+|Translation|[English translation](https://github.com/vcmi-mods/h3-for-vcmi-englisation)|||||x||||||||||||
+|Translation|[Finnish translation](https://github.com/vcmi-mods/finnish-translation)|||x||x||||||||||||
+|Translation|[French translation](https://github.com/vcmi-mods/french-translation)||||x|x||||||||||||
+|Translation|[German translation](https://github.com/vcmi-mods/german-translation)|||||x||||||||||||
+|Translation|[Hungarian translation](https://github.com/vcmi-mods/hungarian-translation)|||||x|x|||||||||||
+|Translation|[Italian translation](https://github.com/vcmi-mods/italian-translation)|||||x||x||||||||||
+|Translation|[Korean translation](https://github.com/vcmi-mods/korean-translation)|||||x|||x|||||||||
+|Translation|[Polish translation](https://github.com/vcmi-mods/polish-translation)|||||x||||x||||||||
+|Translation|[Portuguese (brazilian) translation](https://github.com/vcmi-mods/portuguese-translation)|||||x|||||x|||||||
+|Translation|[Russian translation](https://github.com/vcmi-mods/russian-translation)|||||x||||||x||||||
+|Translation|[Spanish translation](https://github.com/vcmi-mods/spanish-translation)|||||x|||||||x|||||
+|Translation|[Swedish translation](https://github.com/vcmi-mods/swedish-translation)|||||x||||||||x||||
+|Translation|[Turkish translation](https://github.com/vcmi-mods/turkish-translation)|||||x|||||||||x|||
+|Translation|[Ukrainian translation](https://github.com/vcmi-mods/vcmi-mod-ce-ukr)|||||||||||||||x||
+|Translation|[Vietnamese translation](https://github.com/vcmi-mods/vietnamese-translation)|||||x|||||||||||x|
