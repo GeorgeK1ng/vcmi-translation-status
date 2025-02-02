@@ -89,7 +89,6 @@ def get_translation_mods():
 def get_translation_mods_translation():
     translation_mods = get_translation_mods()
     data = {}
-    chronicles_data = {}
 
     for key, value in translation_mods.items():
         tmp = {}
@@ -101,13 +100,14 @@ def get_translation_mods_translation():
                 tmp_str = urllib.request.urlopen((base_url + item).replace("content", "Content").replace("config", "Config")).read()
             
             if "chronicles.json" in item:
-                chronicles_data[key] = load_vcmi_json(tmp_str)
+                chronicles_data = load_vcmi_json(tmp_str)
+                prefixed_chronicles = {f"chronicles.{k}": v for k, v in chronicles_data.items()}
+                tmp |= prefixed_chronicles
             else:
                 tmp |= load_vcmi_json(tmp_str)
 
         data[key] = tmp
 
-    #return data, chronicles_data
     return data
 
 def get_translation_mods_translation_assets():
@@ -141,7 +141,7 @@ def translation_mod_ratio(translation_mods_translation):
 
     for language in [key for key, value in translation_mods_translation.items() if key != "english"]:
         data_ns = {}
-        namespaces = [None, "map", "campaign"]
+        namespaces = [None, "map", "campaign", "chronicles"]
         for namespace in namespaces:
             translation = translation_mods_translation[language]
             count_equal = 0
