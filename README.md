@@ -30,7 +30,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|czech|chinese|finnish|french|german|hungarian|italian|korean|polish|portuguese|russian|spanish|swedish|turkish|ukrainian|vietnamese|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|
+|Translated mods|$\color{red}{\textsf{63.6 \%}}$|$\color{red}{\textsf{49.5 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{6.1 \%}}$|$\color{red}{\textsf{31.3 \%}}$|$\color{red}{\textsf{3.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{54.5 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{41.4 \%}}$|$\color{red}{\textsf{4.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{9.1 \%}}$|$\color{red}{\textsf{1.0 \%}}$|
 
 ## Mods translation details
 
@@ -52,7 +52,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |expansion|[Antagarich Burning](https://github.com/vcmi-mods/ab-bad-ending-assets)|x|x|||||||x||x||||||
 |expansion|[Crossroads of Worlds](https://github.com/vcmi-mods/crossroads-of-worlds)||x|||||||||||||||
 |expansion|[H3Evo](https://github.com/vcmi-mods/h3Evo)|||||||||||||||||
-|expansion|[Horn of the Abyss](https://github.com/vcmi-mods/horn-of-the-abyss)|x|x|||x||||x||x|x|||x||
+|expansion|[Horn of the Abyss](https://github.com/vcmi-mods/hota)|x|x|||x||||x||x|x|||x||
 |expansion|[In The Wake of Gods](https://github.com/vcmi-mods/wake-of-gods)|x|x|||x||||x||x|x|||x||
 |expansion|[Invite hero](https://github.com/vcmi-mods/tavern-invite)|x|x|||x||||||||||||
 |expansion|[Third Upgrades Mod](https://github.com/vcmi-mods/third-upgrades)||x|||||||||x||||||
@@ -83,7 +83,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |maps|[Campaings pack](https://github.com/vcmi-mods/campaings-pack)|||||||||||||||||
 |maps|[Czech Map Pack](https://github.com/vcmi-mods/czech-map-pack)|||||||||||||||||
 |maps|[Dydzio's Map Pack](https://github.com/vcmi-mods/dydzios-map-pack)|x||||||||||||||||
-|maps|[German Map Pack](https://github.com/vcmi-mods/kartenarchiv-mappack)|x|x|||x|x|||x||x||||x||
+|maps|[German Map Pack](https://github.com/vcmi-mods/kartenarchiv)|x|x|||x|x|||x||x||||x||
 |maps|[Heroes Chronicles Enhanced](https://github.com/vcmi-mods/chronicles-enhanced)|x||||||||x||||||||
 |maps|[Mighty Heroes III](https://github.com/vcmi-mods/mighty-heroes-iii)|x|x|||x|x|||x||x||||x||
 |mechanics|[Creatures' Hidden Potential](https://github.com/vcmi-mods/creatures-hidden-potential)|x||||||||||||||||
@@ -110,7 +110,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |templates|[Custom templates](https://github.com/vcmi-mods/custom-templates)|||||||||||||||||
 |templates|[Templates pack NT](https://github.com/vcmi-mods/luk3Z-templates-pack)|x||||||||||||||||
 |templates|[warzyw-templates](https://github.com/vcmi-mods/warzyw-templates)||x|||||||||||||||
-|test|[Adventure AI trace](https://github.com/vcmi-mods/adventure-ai-trace)|||||||||||||||||
+|test|[Adventure AI trace](https://github.com/vcmi-mods/ai-trace)|||||||||||||||||
 |test|[VCMI maps for AI testing](https://github.com/vcmi-mods/ai-testing-maps)|x||||||||||||||||
 |town|[Abyss town](https://github.com/vcmi-mods/abyss-town)|x|x||x|x||||x||x||||||
 |town|[Ark-town](https://github.com/vcmi-mods/ark-town)|||||||||x||x||||||
