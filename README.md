@@ -54,7 +54,6 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[H3Evo](https://github.com/vcmi-mods/h3Evo)|expansion|||||||||||||||||
 |[Horn of the Abyss](https://github.com/vcmi-mods/hota)|expansion|x|x|||x||||x||x|x|||x||
 |[In The Wake of Gods](https://github.com/vcmi-mods/wake-of-gods)|expansion|x|x|||x||||x||x|x|||x||
-|[Invite hero](https://github.com/vcmi-mods/tavern-invite)|expansion|x|x|||x||||||||||||
 |[Third Upgrades Mod](https://github.com/vcmi-mods/third-upgrades)|expansion||x|||||||||x||||||
 |[Tides of War](https://github.com/vcmi-mods/tides-of-war)|expansion|x|x|||x||||x||x|x|||x||
 |[Alternative town screens](https://github.com/vcmi-mods/alternate-townscreens)|graphical|x||||||||||||||||
@@ -87,6 +86,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Heroes Chronicles Enhanced](https://github.com/vcmi-mods/chronicles-enhanced)|maps|x||||||||x||||||||
 |[Mighty Heroes III](https://github.com/vcmi-mods/mighty-heroes-iii)|maps|x|x|||x|x|||x||x||||x||
 |[Creatures' Hidden Potential](https://github.com/vcmi-mods/creatures-hidden-potential)|mechanics|x||||||||||||||||
+|[Invite hero](https://github.com/vcmi-mods/tavern-invite)|mechanics|x|x|||x||||||||||||
 |[Vampires only gameplay enhancements](https://github.com/vcmi-mods/vampires-only-gameplay-enhancements)|mechanics|x||||||||||||||||
 |[Heroes 3 Extended Sountrack](https://github.com/vcmi-mods/heroes3-extended-soundtrack)|music|x||||||||||||||||
 |[Heroes III Orchestra](https://github.com/vcmi-mods/heroes-iii-orchestra)|music|x||||||||x||||||||
