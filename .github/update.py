@@ -190,26 +190,44 @@ def get_qt_translations(languages):
         data[language] = data_type
     return data
 
-def get_mod_translations(languages):
-    vcmi_mods = get_mod_repo()
+def get_translation_mods_translation():
+    translation_mods = get_translation_mods()
     data = {}
-    
-    for key, value in vcmi_mods.items():
-        url = value["mod"].replace(" ", "%20")
-        mod = load_vcmi_json(urllib.request.urlopen(url).read())
 
-        mod_name = mod.get("name", key)
-        mod_type = mod.get("modType", "unknown").lower()
+    for key, value in translation_mods.items():
+        tmp = {}
+        chronicles_found = False
 
-        if mod_type == "translation":
-            continue
+        for item in value[1]["translations"]:
+            base_url = value[0].rsplit('/', 1)[0] + "/content/"
+            try:
+                tmp_str = urllib.request.urlopen(base_url + item).read()
+            except:
+                tmp_str = urllib.request.urlopen((base_url + item).replace("content", "Content").replace("config", "Config")).read()
 
-        found_languages = []
-        for language in languages:
-            if language in mod:
-                found_languages.append(language)
+            if "chronicles.json" in item:
+                chronicles_data = load_vcmi_json(tmp_str)
+                prefixed_chronicles = {f"chronicles.{k}": v for k, v in chronicles_data.items()}
+                tmp |= prefixed_chronicles
+                chronicles_found = True
+            else:
+                tmp |= load_vcmi_json(tmp_str)
 
-        data[key] = {"name": mod_name, "modType": mod_type, "languages": found_languages}
+        if not chronicles_found:
+            chronicles_base_url = value[0].rsplit('/', 1)[0] + "/mods/heroes-chronicles/content/config/heroes-chronicles/"
+            try:
+                files = urllib.request.urlopen(chronicles_base_url).read().decode('utf-8').splitlines()
+                json_files = [file.strip() for file in files if file.endswith(".json")]
+
+                for json_file in json_files:
+                    tmp_str = urllib.request.urlopen(chronicles_base_url + json_file).read()
+                    chronicles_data = load_vcmi_json(tmp_str)
+                    prefixed_chronicles = {f"chronicles.{k}": v for k, v in chronicles_data.items()}
+                    tmp |= prefixed_chronicles
+            except Exception as e:
+                print(f"Error processing chronicles directory for {key}: {e}")
+
+        data[key] = tmp
 
     return data
 
