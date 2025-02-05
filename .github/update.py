@@ -110,18 +110,14 @@ def get_translation_mods_translation():
                 tmp |= load_vcmi_json(tmp_str)
 
         if not chronicles_found:
-            chronicles_base_url = value[0].rsplit('/', 1)[0] + "/mods/heroes-chronicles/content/config/heroes-chronicles/"
+            chronicles_base_url = value[0].rsplit('/', 1)[0] + "/mods/heroes-chronicles/content/config/heroes-chronicles/czech.json"
             try:
-                files = urllib.request.urlopen(chronicles_base_url).read().decode('utf-8').splitlines()
-                json_files = [file.strip() for file in files if file.endswith(".json")]
-
-                for json_file in json_files:
-                    tmp_str = urllib.request.urlopen(chronicles_base_url + json_file).read()
-                    chronicles_data = load_vcmi_json(tmp_str)
-                    prefixed_chronicles = {f"chronicles.{k}": v for k, v in chronicles_data.items()}
-                    tmp |= prefixed_chronicles
+                tmp_str = urllib.request.urlopen(chronicles_base_url).read()
+                chronicles_data = load_vcmi_json(tmp_str)
+                prefixed_chronicles = {f"chronicles.{k}": v for k, v in chronicles_data.items()}
+                tmp |= prefixed_chronicles
             except Exception as e:
-                print(f"Error processing chronicles directory for {key}: {e}")
+                print(f"Error processing chronicles czech.json for {key}: {e}")
 
         data[key] = tmp
 
