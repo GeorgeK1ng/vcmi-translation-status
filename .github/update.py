@@ -110,21 +110,24 @@ def get_translation_mods_translation():
                 tmp |= load_vcmi_json(tmp_str)
 
         if not chronicles_found:
-            base_url_parts = value[0].rsplit('/', 1)[0]
-            chronicles_dir = base_url_parts + "/mods/"
             try:
-                repo_files_api = chronicles_dir.replace("https://raw.githubusercontent.com", "https://api.github.com/repos").replace("/content", "/git/trees/main?recursive=1")
+                repo_base_url = value[0].rsplit('/', 1)[0].split('/content/')[0] + "/mods/"
+                repo_files_api = repo_base_url.replace("https://raw.githubusercontent.com", "https://api.github.com/repos") + "/git/trees/main?recursive=1"
+
                 repo_files = json5.loads(urllib.request.urlopen(repo_files_api).read())["tree"]
-                chronicles_json_files = [f["path"] for f in repo_files if "chronicles" in f["path"] and f["path"].endswith(".json")]
+                chronicles_json_files = [
+                    f["path"] for f in repo_files
+                    if re.search(r"mods/.+chronicles.+/content/config/.+chronicles.+\.json$", f["path"], re.IGNORECASE)
+                ]
 
                 for json_file in chronicles_json_files:
-                    json_file_url = f"https://raw.githubusercontent.com/{'/'.join(json_file.split('/', 1))}"
+                    json_file_url = "https://raw.githubusercontent.com/" + '/'.join(json_file.split('/')[1:])
                     tmp_str = urllib.request.urlopen(json_file_url).read()
                     chronicles_data = load_vcmi_json(tmp_str)
                     prefixed_chronicles = {f"chronicles.{k}": v for k, v in chronicles_data.items()}
                     tmp |= prefixed_chronicles
             except Exception as e:
-                print(f"Error processing chronicles JSON files for {key}: {e}")
+                print(f"Error processing dynamic chronicles JSON files for {key}: {e}")
 
         data[key] = tmp
 
