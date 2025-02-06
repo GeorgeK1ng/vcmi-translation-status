@@ -103,7 +103,7 @@ def get_translation_mods_translation():
                 tmp_str = urllib.request.urlopen(base_url + item).read()
             except Exception as e:
                 print(f"Error reading {base_url + item}: {e}")
-                tmp_str = urllib.request.urlopen((base_url + item).replace("content", "Content").replace("config", "Config")).read()
+                continue
 
             if "chronicles.json" in item:
                 print(f"Found chronicles.json in: {base_url + item}")
@@ -128,7 +128,7 @@ def get_translation_mods_translation():
 
                 chronicles_json_files = [
                     f["path"] for f in repo_files
-                    if re.search(r"mods/.+chronicles.+/content/config/.+chronicles/.+\.json$", f["path"], re.IGNORECASE)
+                    if "chronicles" in f["path"] and f["path"].endswith(".json") and "video" not in f["path"]
                 ]
 
                 print(f"Found chronicles JSON files: {chronicles_json_files}")
