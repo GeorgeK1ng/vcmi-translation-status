@@ -128,7 +128,10 @@ def get_translation_mods_translation():
 
                 chronicles_json_files = [
                     f["path"] for f in repo_files
-                    if "chronicles" in f["path"] and f["path"].endswith(".json") and "video" not in f["path"]
+                    if "chronicles" in f["path"] 
+                    and f["path"].endswith(".json") 
+                    and "video" not in f["path"].lower() 
+                    and not f["path"].endswith("mod.json")
                 ]
 
                 print(f"Found chronicles JSON files: {chronicles_json_files}")
