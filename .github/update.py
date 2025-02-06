@@ -111,23 +111,37 @@ def get_translation_mods_translation():
 
         if not chronicles_found:
             try:
-                repo_base_url = value[0].rsplit('/', 1)[0].split('/content/')[0] + "/mods/"
-                repo_files_api = repo_base_url.replace("https://raw.githubusercontent.com", "https://api.github.com/repos") + "/git/trees/main?recursive=1"
+                base_dir = value[0].rsplit('/', 1)[0] + "/mods/"
+                directories_to_scan = [base_dir]
+                json_files = []
 
-                repo_files = json5.loads(urllib.request.urlopen(repo_files_api).read())["tree"]
-                chronicles_json_files = [
-                    f["path"] for f in repo_files
-                    if re.search(r"mods/.+chronicles.+/content/config/.+chronicles.+\.json$", f["path"], re.IGNORECASE)
-                ]
+                # Procházíme všechny složky a hledáme JSON soubory ve struktuře s `chronicles`
+                while directories_to_scan:
+                    current_dir = directories_to_scan.pop(0)
+                    try:
+                        response = urllib.request.urlopen(current_dir).read().decode('utf-8')
+                        files_and_dirs = [line.strip() for line in response.splitlines()]
 
-                for json_file in chronicles_json_files:
-                    json_file_url = "https://raw.githubusercontent.com/" + '/'.join(json_file.split('/')[1:])
-                    tmp_str = urllib.request.urlopen(json_file_url).read()
-                    chronicles_data = load_vcmi_json(tmp_str)
-                    prefixed_chronicles = {f"chronicles.{k}": v for k, v in chronicles_data.items()}
-                    tmp |= prefixed_chronicles
+                        for entry in files_and_dirs:
+                            if entry.endswith("/"):
+                                directories_to_scan.append(current_dir + entry)
+                            elif entry.endswith(".json") and "chronicles" in current_dir:
+                                json_files.append(current_dir + entry)
+                    except Exception as e:
+                        print(f"Error reading directory {current_dir}: {e}")
+
+                # Zpracování všech nalezených JSON souborů
+                for json_file in json_files:
+                    try:
+                        tmp_str = urllib.request.urlopen(json_file).read()
+                        chronicles_data = load_vcmi_json(tmp_str)
+                        prefixed_chronicles = {f"chronicles.{k}": v for k, v in chronicles_data.items()}
+                        tmp |= prefixed_chronicles
+                    except Exception as e:
+                        print(f"Error reading JSON file {json_file}: {e}")
+
             except Exception as e:
-                print(f"Error processing dynamic chronicles JSON files for {key}: {e}")
+                print(f"Error processing chronicles directory for {key}: {e}")
 
         data[key] = tmp
 
