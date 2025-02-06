@@ -84,6 +84,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Dydzio's Map Pack](https://github.com/vcmi-mods/dydzios-map-pack)|maps|x||||||||||||||||
 |[German Map Pack](https://github.com/vcmi-mods/kartenarchiv)|maps|x|x|||x|x|||x||x||||x||
 |[Heroes Chronicles Enhanced](https://github.com/vcmi-mods/chronicles-enhanced)|maps|x||||||||x||||||||
+|[HoMM3 Campaigns remade](https://github.com/vcmi-mods/h3-campaigns-remade)|maps|||||||||||||||||
 |[Mighty Heroes III](https://github.com/vcmi-mods/mighty-heroes-iii)|maps|x|x|||x|x|||x||x||||x||
 |[Creatures' Hidden Potential](https://github.com/vcmi-mods/creatures-hidden-potential)|mechanics|x||||||||||||||||
 |[Invite hero](https://github.com/vcmi-mods/tavern-invite)|mechanics|x|x|||x||||||||||||
@@ -97,7 +98,6 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[New terrains pack](https://github.com/vcmi-mods/newtown-terrains)|objects|x|x|||||||x||x||||||
 |[Cheat Collection](https://github.com/vcmi-mods/cheat-mod)|other|||||||||||||||||
 |[Collection of fixes and spices for mods](https://github.com/vcmi-mods/graphics-balance-music)|other|||||||||||||||||
-|[HoMM3 Campaigns remade](https://github.com/vcmi-mods/h3-campaigns-remade)|other|||||||||||||||||
 |[MacOS demo assets support](https://github.com/vcmi-mods/mac-demo-support)|other|||||||||||||||||
 |[Modders' Tool Pack](https://github.com/vcmi-mods/modder-tools-pack)|other|x||||||||||||||||
 |[Simple Game Balance](https://github.com/vcmi-mods/ultimate-balance)|other|||||||||||||||||
