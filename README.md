@@ -30,7 +30,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|czech|chinese|finnish|french|german|hungarian|italian|korean|polish|portuguese|russian|spanish|swedish|turkish|ukrainian|vietnamese|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|$\color{red}{\textsf{62.7 \%}}$|$\color{red}{\textsf{48.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{6.9 \%}}$|$\color{red}{\textsf{30.4 \%}}$|$\color{red}{\textsf{2.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{54.9 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{43.1 \%}}$|$\color{red}{\textsf{3.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{11.8 \%}}$|$\color{red}{\textsf{1.0 \%}}$|
+|Translated mods|$\color{red}{\textsf{62.7 \%}}$|$\color{red}{\textsf{48.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{6.9 \%}}$|$\color{red}{\textsf{30.4 \%}}$|$\color{red}{\textsf{2.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{54.9 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{44.1 \%}}$|$\color{red}{\textsf{3.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{11.8 \%}}$|$\color{red}{\textsf{1.0 \%}}$|
 
 ## Mods translation details
 
@@ -84,7 +84,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Czech Map Pack](https://github.com/vcmi-mods/czech-map-pack)|maps|||||||||||||||||
 |[Dydzio's Map Pack](https://github.com/vcmi-mods/dydzios-map-pack)|maps|x||||||||||||||||
 |[German Map Pack](https://github.com/vcmi-mods/kartenarchiv)|maps|x|x|||x|x|||x||x||||x||
-|[Heroes Chronicles Enhanced](https://github.com/vcmi-mods/chronicles-enhanced)|maps|x||||||||x||||||||
+|[Heroes Chronicles Enhanced](https://github.com/vcmi-mods/chronicles-enhanced)|maps|x||||||||x||x||||||
 |[HoMM3 Campaigns remade](https://github.com/vcmi-mods/h3-campaigns-remade)|maps|||||||||||||||||
 |[Maps Collection](https://github.com/vcmi-mods/chinese-maps-collection)|maps||x|||||||||||||||
 |[Mighty Heroes III](https://github.com/vcmi-mods/mighty-heroes-iii)|maps|x|x|||x|x|||x||x||||x||
