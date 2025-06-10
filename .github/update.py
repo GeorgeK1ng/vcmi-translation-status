@@ -253,7 +253,7 @@ def get_mod_translations(languages):
         data[key] = {"name": mod_name, "modType": mod_type, "languages": found_languages}
     return data
 
-def pad_header(text, min_len=12):
+def pad_header(text, min_len=13):
     pad = max(0, min_len - len(text))
     return text + '&nbsp;' * pad
 
