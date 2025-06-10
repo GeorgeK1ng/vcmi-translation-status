@@ -253,10 +253,15 @@ def get_mod_translations(languages):
         data[key] = {"name": mod_name, "modType": mod_type, "languages": found_languages}
     return data
 
+def pad_header(text, min_len=12):
+    pad = max(0, min_len - len(text))
+    return text + '&nbsp;' * pad
+
 def create_md():
     languages = get_languages()
     languages_translate = [x for x in languages if x != "english"]
-
+    languages_translate_padded = [pad_header(x) for x in languages_translate]
+    
     md = MdUtils(file_name='_')
 
     def format_value(percent):
@@ -285,9 +290,13 @@ def create_md():
 
     md.new_header(level=2, title="QT tools translation")
     tmp = get_qt_translations(languages_translate)
-    df = pd.DataFrame(columns=["Tool"] + languages_translate)
+    df = pd.DataFrame(columns=["Tool"] + languages_translate_padded)
     for tool in list(tmp.values())[0].keys():
-        df = pd.concat([df, pd.DataFrame({"Tool": "[" + tool + "](https://github.com/vcmi/vcmi/tree/develop/" + tool + "/translation)"} | {x:[format_value(tmp[x][tool]["ratio"])] if x in tmp else [format_value(0)] for x in languages_translate})], ignore_index=True)
+        df = pd.concat([df, pd.DataFrame(
+            {"Tool": "[" + tool + "](https://github.com/vcmi/vcmi/tree/develop/" + tool + "/translation)"} |
+            {padded: [format_value(tmp[orig][tool]["ratio"])] if orig in tmp else [format_value(0)]
+             for orig, padded in zip(languages_translate, languages_translate_padded)}
+        )], ignore_index=True)
     df = df.T.reset_index().T
     md.new_table(columns=df.shape[1], rows=df.shape[0], text=df.to_numpy().flatten(), text_align='center')
 
@@ -297,18 +306,21 @@ def create_md():
     percentages = [mod_counts[lang] / total_mods if total_mods > 0 else 0 for lang in languages_translate]
     
     md.new_header(level=2, title="Mods translation status")
-    header = ["Language"] + languages_translate
+    header = ["Language"] + languages_translate_padded
     values = ["Translated mods"] + [format_value(percent) for percent in percentages]
     
     md.new_table(columns=len(header), rows=2, text=header + values, text_align='center')
 
     md.new_header(level=2, title="Mods translation details")
     tmp = get_mod_translations(languages_translate)
-    df = pd.DataFrame(columns=["Mod", "Type"] + languages_translate)
+    df = pd.DataFrame(columns=["Mod", "Type"] + languages_translate_padded)
 
     for mod, mod_data in tmp.items():
-        df = pd.concat([df, pd.DataFrame({"Mod": "[" + mod_data["name"] + "](https://github.com/vcmi-mods/" + mod.replace(" ", "-") + ")", "Type": mod_data["modType"], **{x: ["x" if x in mod_data["languages"] else ""] for x in languages_translate}})], ignore_index=True)
-
+        df = pd.concat([df, pd.DataFrame({
+            "Mod": "[" + mod_data["name"] + "](https://github.com/vcmi-mods/" + mod.replace(" ", "-") + ")",
+            "Type": mod_data["modType"],
+            **{padded: ["x" if orig in mod_data["languages"] else ""] for orig, padded in zip(languages_translate, languages_translate_padded)}
+        })], ignore_index=True)
     df = df.sort_values(by=["Type", "Mod"])
 
     df = df.T.reset_index().T
