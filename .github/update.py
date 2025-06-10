@@ -259,14 +259,14 @@ def create_md():
 
     md = MdUtils(file_name='_')
 
-def format_value(percent):
-    percent_str = f"{round(percent * 100, 1)} %"
-    if percent < 0.7:
-        return f"🔴 {percent_str}"
-    elif percent < 0.9:
-        return f"🟠 {percent_str}"
-    else:
-        return f"🟢 {percent_str}"
+    def format_value(percent):
+        percent_str = f"{round(percent * 100, 1)} %"
+        if percent < 0.7:
+            return f"🔴 {percent_str}"
+        elif percent < 0.9:
+            return f"🟠 {percent_str}"
+        else:
+            return f"🟢 {percent_str}"
 
     md.new_header(level=1, title="VCMI translations")
     md.new_line("This tables shows the current translation progress of VCMI. See [here](https://vcmi.eu/translators/Translations/) how to translate VCMI. See assets for translation [here](files_to_translated.json) (not every language need each asset).")
