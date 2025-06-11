@@ -278,7 +278,8 @@ def create_md():
 
     md.new_header(level=2, title="Main translation")
     tmp = base_mod_ratio(languages_translate)
-    df = pd.DataFrame({"Area": "[Main-Repo](https://github.com/vcmi/vcmi)"} | {x:([format_value(tmp[x]["ratio"])] if x in tmp else [format_value(0)]) for x in languages_translate})
+    df = pd.DataFrame({"Area": "[Main-Repo](https://github.com/vcmi/vcmi)"} | {padded:([format_value(tmp[orig]["ratio"])] if orig in tmp else [format_value(0)])
+                 for orig, padded in zip(languages_translate, languages_translate_padded)})
     tmp = translation_mod_ratio(get_translation_mods_translation())
     for area in list(tmp.values())[0].keys():
         df = pd.concat([df, pd.DataFrame({"Area": "[Mod-Repo](https://github.com/vcmi-mods)" + (' game' if area == None else ' ' + area)} | {x:([format_value(tmp[x][area]["ratio"])] if x in tmp else [format_value(0)]) for x in languages_translate})], ignore_index=True)
