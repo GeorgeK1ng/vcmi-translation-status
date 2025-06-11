@@ -284,10 +284,18 @@ def create_md():
     })
     tmp = translation_mod_ratio(get_translation_mods_translation())
     for area in list(tmp.values())[0].keys():
-        df = pd.concat([df, pd.DataFrame({"Area": "[Mod-Repo](https://github.com/vcmi-mods)" + (' game' if area == None else ' ' + area)} | {x:([format_value(tmp[x][area]["ratio"])] if x in tmp else [format_value(0)]) for x in languages_translate})], ignore_index=True)
+        df = pd.concat([df, pd.DataFrame(
+            {"Area": "[Mod-Repo](https://github.com/vcmi-mods)" + (' game' if area == None else ' ' + area)} |
+            {padded: ([format_value(tmp[orig][area]["ratio"])] if orig in tmp else [format_value(0)])
+             for orig, padded in zip(languages_translate, languages_translate_padded)}
+        )], ignore_index=True)
     tmp = get_translation_mods_translation_assets()
     for area in list(tmp.values())[0].keys():
-        df = pd.concat([df, pd.DataFrame({"Area": "[Mod-Repo](https://github.com/vcmi-mods)" + (' Assets: ' + area)} | {x:([format_value(tmp[x][area])] if x in tmp else [format_value(0)]) for x in languages_translate})], ignore_index=True)
+        df = pd.concat([df, pd.DataFrame(
+            {"Area": "[Mod-Repo](https://github.com/vcmi-mods) Assets: " + area} |
+            {padded: ([format_value(tmp[orig][area])] if orig in tmp else [format_value(0)])
+             for orig, padded in zip(languages_translate, languages_translate_padded)}
+        )], ignore_index=True)
     df = df.T.reset_index().T
     md.new_table(columns=df.shape[1], rows=df.shape[0], text=df.to_numpy().flatten(), text_align='center')
 
