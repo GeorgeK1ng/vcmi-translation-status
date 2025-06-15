@@ -30,7 +30,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|belarusian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|bulgarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|czech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|chinese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|finnish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|french&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|german&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|greek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|hungarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|italian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|japanese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|korean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|polish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|portuguese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|romanian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|russian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|spanish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|swedish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|norwegian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|turkish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|ukrainian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|vietnamese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|🔴 0.0 %|🔴 0.0 %|🔴 63.5 %|🔴 49.0 %|🔴 0.0 %|🔴 7.7 %|🔴 30.8 %|🔴 0.0 %|🔴 2.9 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 55.8 %|🔴 1.0 %|🔴 0.0 %|🔴 46.2 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 12.5 %|🔴 1.0 %|
+|Translated mods|🔴 0.0 %|🔴 0.0 %|🔴 63.5 %|🔴 49.0 %|🔴 0.0 %|🔴 7.7 %|🔴 30.8 %|🔴 0.0 %|🔴 2.9 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 56.7 %|🔴 1.0 %|🔴 0.0 %|🔴 46.2 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 12.5 %|🔴 1.0 %|
 
 ## Mods translation details
 
@@ -90,7 +90,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Maps Collection](https://github.com/vcmi-mods/chinese-maps-collection)|maps||||x|||||||||||||||||||
 |[Mighty Heroes III](https://github.com/vcmi-mods/mighty-heroes-iii)|maps|||x|x|||x||x||||x|||x|||||x||
 |[Creatures' Hidden Potential](https://github.com/vcmi-mods/creatures-hidden-potential)|mechanics|||x||||||||||||||||||||
-|[Invite hero](https://github.com/vcmi-mods/tavern-invite)|mechanics|||x|x|||x||||||||||||||||
+|[Invite hero](https://github.com/vcmi-mods/tavern-invite)|mechanics|||x|x|||x||||||x||||||||||
 |[Vampires only gameplay enhancements](https://github.com/vcmi-mods/vampires-only-gameplay-enhancements)|mechanics|||x||||||||||||||||||||
 |[Heroes 3 Extended Sountrack](https://github.com/vcmi-mods/heroes3-extended-soundtrack)|music|||x||||||||||||||||||||
 |[Heroes III Orchestra](https://github.com/vcmi-mods/heroes-iii-orchestra)|music|||x||||||||||x||||||||||
