@@ -30,7 +30,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|belarusian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|bulgarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|czech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|chinese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|finnish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|french&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|german&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|greek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|hungarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|italian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|japanese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|korean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|polish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|portuguese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|romanian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|russian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|spanish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|swedish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|norwegian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|turkish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|ukrainian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|vietnamese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|🔴 0.0 %|🔴 0.0 %|🔴 64.8 %|🔴 47.6 %|🔴 0.0 %|🔴 7.6 %|🔴 31.4 %|🔴 0.0 %|🔴 2.9 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 58.1 %|🔴 1.0 %|🔴 0.0 %|🔴 46.7 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 13.3 %|🔴 1.0 %|
+|Translated mods|🔴 0.0 %|🔴 0.0 %|🔴 65.7 %|🔴 47.6 %|🔴 0.0 %|🔴 7.6 %|🔴 31.4 %|🔴 0.0 %|🔴 2.9 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 58.1 %|🔴 1.0 %|🔴 0.0 %|🔴 46.7 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 13.3 %|🔴 1.0 %|
 
 ## Mods translation details
 
@@ -109,7 +109,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[PAH3 Singleplayer Tournament](https://github.com/vcmi-mods/pah3-singleplayer-tournament)|other|||||||||||||||||||||||
 |[Simple Game Balance](https://github.com/vcmi-mods/ultimate-balance)|other|||||||||||||||||||||||
 |[ZEfix](https://github.com/vcmi-mods/zefix)|other|||x||||||||||x||||||||||
-|[New Skills Pack](https://github.com/vcmi-mods/new-skills-pack)|skills|||||||||||||x|||x|||||||
+|[New Skills Pack](https://github.com/vcmi-mods/new-skills-pack)|skills|||x||||||||||x|||x|||||||
 |[Adventure Map Spells](https://github.com/vcmi-mods/adventure-spells-pack)|spells|||x|x|||||||||x|||x|||||||
 |[New Magic Balance](https://github.com/vcmi-mods/andruids-spell-balance)|spells|||x||||||||||||||||||||
 |[New Summoning Spells](https://github.com/vcmi-mods/new-summon-spells)|spells|||x|x|||||||||x|||x|||||||
