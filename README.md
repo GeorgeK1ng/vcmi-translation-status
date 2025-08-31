@@ -9,12 +9,12 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Area|belarusian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|bulgarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|czech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|chinese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|finnish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|french&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|german&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|greek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|hungarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|italian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|japanese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|korean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|polish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|portuguese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|romanian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|russian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|spanish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|swedish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|norwegian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|turkish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|ukrainian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|vietnamese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Main-Repo](https://github.com/vcmi/vcmi)|🔴 0.0 %|🔴 0.0 %|🔴 69.3 %|🟢 100.0 %|🔴 0.0 %|🔴 21.7 %|🟢 99.8 %|🔴 0.0 %|🔴 64.1 %|🔴 64.3 %|🔴 0.0 %|🔴 0.0 %|🟠 74.3 %|🔴 69.3 %|🔴 0.0 %|🔴 65.4 %|🔴 35.5 %|🟠 73.2 %|🔴 0.0 %|🔴 0 %|🔴 67.3 %|🔴 62.0 %|
+|[Main-Repo](https://github.com/vcmi/vcmi)|🔴 0.0 %|🔴 0.0 %|🔴 68.9 %|🟢 99.5 %|🔴 0.0 %|🔴 21.6 %|🟢 99.3 %|🔴 0.0 %|🔴 63.8 %|🔴 64.0 %|🔴 0.0 %|🔴 0.0 %|🟠 74.0 %|🔴 68.9 %|🔴 0.0 %|🔴 65.1 %|🔴 35.3 %|🟢 99.5 %|🔴 0.0 %|🔴 0 %|🔴 67.0 %|🔴 61.7 %|
 |[Mod-Repo](https://github.com/vcmi-mods) game|🟢 98.7 %|🟢 99.1 %|🟢 100.0 %|🟢 99.8 %|🔴 53.4 %|🟢 99.4 %|🟢 100.0 %|🔴 0.0 %|🟢 99.1 %|🟢 95.8 %|🔴 0.0 %|🟢 99.4 %|🟢 99.4 %|🟢 100.0 %|🔴 0.0 %|🟢 99.4 %|🟢 99.4 %|🟢 100.0 %|🔴 0.0 %|🔴 54.8 %|🟢 100.0 %|🟢 100.0 %|
 |[Mod-Repo](https://github.com/vcmi-mods) map|🔴 38.3 %|🔴 18.1 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🟢 99.6 %|🟢 100.0 %|🔴 0.0 %|🔴 48.6 %|🔴 23.8 %|🔴 0.0 %|🟢 98.3 %|🟢 92.6 %|🟢 100.0 %|🔴 0.0 %|🟢 92.7 %|🔴 57.7 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🟢 91.9 %|🔴 0.0 %|
 |[Mod-Repo](https://github.com/vcmi-mods) campaign|🟢 96.6 %|🔴 66.1 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 54.7 %|🔴 25.8 %|🔴 0.0 %|🟢 100.0 %|🟢 96.6 %|🟢 100.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 2.5 %|🔴 0.0 %|🔴 0.0 %|🟢 96.6 %|🔴 0.0 %|
-|[Mod-Repo](https://github.com/vcmi-mods) chronicles|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 99.8 %|🔴 0.0 %|🔴 65.2 %|🟢 99.8 %|🔴 0.0 %|🔴 0.0 %|🔴 65.2 %|🔴 0.0 %|🔴 0.0 %|🟢 99.8 %|🟢 99.8 %|🔴 0.0 %|🟢 99.8 %|🔴 65.2 %|🟢 99.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|
-|[Mod-Repo](https://github.com/vcmi-mods) Assets: data|🔴 64.3 %|🔴 7.1 %|🟢 100.0 %|🟠 85.7 %|🔴 7.1 %|🟢 92.9 %|🟢 100.0 %|🔴 0.0 %|🟠 71.4 %|🔴 64.3 %|🔴 0.0 %|🔴 14.3 %|🟢 92.9 %|🟢 92.9 %|🔴 0.0 %|🟢 92.9 %|🟠 78.6 %|🔴 7.1 %|🔴 0.0 %|🔴 0.0 %|🟢 92.9 %|🟠 85.7 %|
+|[Mod-Repo](https://github.com/vcmi-mods) chronicles|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 99.8 %|🔴 0.0 %|🔴 65.2 %|🟢 99.8 %|🟢 100.0 %|🔴 0.0 %|🔴 65.2 %|🔴 0.0 %|🔴 0.0 %|🟢 99.8 %|🟢 100.0 %|🔴 0.0 %|🟢 99.8 %|🔴 65.2 %|🟢 99.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|
+|[Mod-Repo](https://github.com/vcmi-mods) Assets: data|🔴 64.3 %|🔴 7.1 %|🟢 100.0 %|🟠 85.7 %|🔴 7.1 %|🟢 92.9 %|🟢 100.0 %|🔴 21.4 %|🟠 71.4 %|🔴 64.3 %|🟠 85.7 %|🔴 14.3 %|🟢 92.9 %|🟢 92.9 %|🔴 0.0 %|🟢 92.9 %|🟠 78.6 %|🔴 21.4 %|🔴 0.0 %|🔴 0.0 %|🟢 92.9 %|🟠 85.7 %|
 |[Mod-Repo](https://github.com/vcmi-mods) Assets: sounds|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 23.8 %|🔴 23.8 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 5.0 %|🔴 0.0 %|🔴 0.0 %|🔴 5.0 %|🔴 0.0 %|
 |[Mod-Repo](https://github.com/vcmi-mods) Assets: sprites|🔴 67.1 %|🔴 0.0 %|🟢 100.0 %|🔴 58.5 %|🔴 6.1 %|🟢 98.8 %|🟢 100.0 %|🔴 0.0 %|🔴 56.1 %|🔴 32.9 %|🔴 0.0 %|🔴 50.0 %|🟢 97.6 %|🔴 65.9 %|🔴 0.0 %|🟢 98.8 %|🟢 100.0 %|🔴 7.3 %|🔴 0.0 %|🔴 0.0 %|🔴 58.5 %|🔴 58.5 %|
 |[Mod-Repo](https://github.com/vcmi-mods) Assets: video|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 50.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|
@@ -30,7 +30,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|belarusian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|bulgarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|czech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|chinese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|finnish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|french&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|german&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|greek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|hungarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|italian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|japanese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|korean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|polish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|portuguese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|romanian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|russian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|spanish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|swedish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|norwegian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|turkish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|ukrainian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|vietnamese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|🔴 0.0 %|🔴 0.0 %|🔴 66.7 %|🔴 48.6 %|🔴 0.0 %|🔴 7.6 %|🔴 31.4 %|🔴 0.0 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 58.1 %|🔴 1.0 %|🔴 0.0 %|🔴 46.7 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 14.3 %|🔴 1.0 %|
+|Translated mods|🔴 0.0 %|🔴 0.0 %|🔴 66.7 %|🔴 48.6 %|🔴 0.0 %|🔴 7.6 %|🔴 31.4 %|🔴 0.0 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 58.1 %|🔴 3.8 %|🔴 0.0 %|🔴 46.7 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 14.3 %|🔴 1.0 %|
 
 ## Mods translation details
 
@@ -52,8 +52,8 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Antagarich Burning - maps](https://github.com/vcmi-mods/ab-bad-ending-maps)|expansion|||||||||||||||||||||||
 |[Antagarich Burning](https://github.com/vcmi-mods/ab-bad-ending-assets)|expansion|||x|x|||||||||x|||x|||||||
 |[H3Evo](https://github.com/vcmi-mods/h3Evo)|expansion|||||||||||||||||||||||
-|[Horn of the Abyss](https://github.com/vcmi-mods/hota)|expansion|||x|x|||x||||||x|||x|x||||x||
-|[In The Wake of Gods](https://github.com/vcmi-mods/wake-of-gods)|expansion|||x|x|||x||||||x|||x|x||||x||
+|[Horn of the Abyss](https://github.com/vcmi-mods/hota)|expansion|||x|x|||x||||||x|x||x|x||||x||
+|[In The Wake of Gods](https://github.com/vcmi-mods/wake-of-gods)|expansion|||x|x|||x||||||x|x||x|x||||x||
 |[PvP Balance](https://github.com/vcmi-mods/pvp-balance)|expansion|||||||||||||x||||||||x||
 |[Third Upgrades Mod](https://github.com/vcmi-mods/third-upgrades)|expansion||||x||||||||||||x|||||||
 |[Tides of War](https://github.com/vcmi-mods/tides-of-war)|expansion|||x|x|||x||x||||x|||x|x||||x||
@@ -76,7 +76,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[New Old Heroes](https://github.com/vcmi-mods/new-old-heroes)|heroes|||x||||||||||x|||x|||||||
 |[Phoenix as a dream](https://github.com/vcmi-mods/phoenix-as-a-dream)|heroes|||x|x|||||||||x||||||||||
 |[Tarnum is back!](https://github.com/vcmi-mods/tarnum)|heroes|||x|x|||x||||||x||||||||||
-|[Heroes-o-pedia](https://github.com/vcmi-mods/heroes-o-pedia)|interface|||||||||||||||||||||||
+|[Heroes-o-pedia](https://github.com/vcmi-mods/heroes-o-pedia)|interface||||||||||||||x|||||||||
 |[High-res Menu](https://github.com/vcmi-mods/hi-rez-menu)|interface|||x||||||||||||||||||||
 |[Main Menu Themes Pack](https://github.com/vcmi-mods/h3-themes)|interface|||x||||||||||||||||||||
 |[Medusas are the best girls](https://github.com/vcmi-mods/medusa-mod)|interface|||||||||||||x|||x|||||||
