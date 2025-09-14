@@ -9,14 +9,14 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Area|belarusian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|bulgarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|czech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|chinese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|finnish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|french&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|german&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|greek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|hungarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|italian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|japanese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|korean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|polish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|portuguese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|romanian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|russian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|spanish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|swedish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|norwegian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|turkish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|ukrainian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|vietnamese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[Main-Repo](https://github.com/vcmi/vcmi)|🔴 0.0 %|🔴 0.0 %|🔴 68.9 %|🟢 99.5 %|🔴 0.0 %|🔴 21.6 %|🟢 99.3 %|🔴 0.0 %|🔴 63.8 %|🔴 64.0 %|🔴 0.0 %|🔴 0.0 %|🟠 74.0 %|🔴 68.9 %|🔴 0.0 %|🔴 65.1 %|🔴 35.3 %|🟢 99.5 %|🔴 0.0 %|🔴 0 %|🔴 67.0 %|🔴 61.7 %|
-|[Mod-Repo](https://github.com/vcmi-mods) game|🟢 98.7 %|🟢 99.1 %|🟢 100.0 %|🟢 99.8 %|🔴 53.4 %|🟢 99.4 %|🟢 100.0 %|🔴 0.0 %|🟢 99.1 %|🟢 95.8 %|🔴 0.0 %|🟢 99.4 %|🟢 99.4 %|🟢 100.0 %|🔴 0.0 %|🟢 99.4 %|🟢 99.4 %|🟢 100.0 %|🔴 0.0 %|🔴 54.8 %|🟢 100.0 %|🟢 100.0 %|
-|[Mod-Repo](https://github.com/vcmi-mods) map|🔴 38.3 %|🔴 18.1 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🟢 99.6 %|🟢 100.0 %|🔴 0.0 %|🔴 48.6 %|🔴 23.8 %|🔴 0.0 %|🟢 98.3 %|🟢 92.6 %|🟢 100.0 %|🔴 0.0 %|🟢 92.7 %|🔴 57.7 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🟢 91.9 %|🔴 0.0 %|
-|[Mod-Repo](https://github.com/vcmi-mods) campaign|🟢 96.6 %|🔴 66.1 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 54.7 %|🔴 25.8 %|🔴 0.0 %|🟢 100.0 %|🟢 96.6 %|🟢 100.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 2.5 %|🔴 0.0 %|🔴 0.0 %|🟢 96.6 %|🔴 0.0 %|
+|[Main-Repo](https://github.com/vcmi/vcmi)|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 99.5 %|🔴 0.0 %|🔴 21.6 %|🟢 99.3 %|🔴 0.0 %|🔴 63.8 %|🔴 64.0 %|🔴 0.0 %|🔴 0.0 %|🟠 74.0 %|🔴 68.9 %|🔴 0.0 %|🔴 65.1 %|🔴 35.3 %|🟢 99.5 %|🔴 0.0 %|🔴 0 %|🔴 67.0 %|🔴 61.7 %|
+|[Mod-Repo](https://github.com/vcmi-mods) game|🟢 98.7 %|🟢 99.1 %|🟢 100.0 %|🟢 99.8 %|🔴 53.4 %|🟢 99.4 %|🟢 100.0 %|🟢 100.0 %|🟢 99.1 %|🟢 95.8 %|🔴 0.0 %|🟢 99.4 %|🟢 99.4 %|🟢 100.0 %|🔴 0.0 %|🟢 99.4 %|🟢 99.4 %|🟢 100.0 %|🔴 0.0 %|🔴 54.8 %|🟢 100.0 %|🟢 100.0 %|
+|[Mod-Repo](https://github.com/vcmi-mods) map|🔴 38.3 %|🔴 18.1 %|🟢 100.0 %|🟢 100.0 %|🔴 39.1 %|🟢 99.6 %|🟢 100.0 %|🟢 100.0 %|🔴 48.6 %|🔴 23.8 %|🔴 0.0 %|🟢 98.3 %|🟢 92.6 %|🟢 100.0 %|🔴 0.0 %|🟢 92.7 %|🔴 57.7 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🟢 91.9 %|🔴 0.0 %|
+|[Mod-Repo](https://github.com/vcmi-mods) campaign|🟢 96.6 %|🔴 66.1 %|🟢 100.0 %|🟢 100.0 %|🟢 100.0 %|🟢 100.0 %|🟢 100.0 %|🟢 100.0 %|🔴 54.7 %|🔴 25.8 %|🔴 0.0 %|🟢 100.0 %|🟢 96.6 %|🟢 100.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 2.5 %|🔴 0.0 %|🔴 0.0 %|🟢 96.6 %|🔴 0.0 %|
 |[Mod-Repo](https://github.com/vcmi-mods) chronicles|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 99.8 %|🔴 0.0 %|🔴 65.2 %|🟢 99.8 %|🟢 100.0 %|🔴 0.0 %|🔴 65.2 %|🔴 0.0 %|🔴 0.0 %|🟢 99.8 %|🟢 100.0 %|🔴 0.0 %|🟢 99.8 %|🔴 65.2 %|🟢 99.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|
-|[Mod-Repo](https://github.com/vcmi-mods) Assets: data|🔴 64.3 %|🔴 7.1 %|🟢 100.0 %|🟠 85.7 %|🔴 14.3 %|🟢 92.9 %|🟢 100.0 %|🔴 21.4 %|🟠 78.6 %|🟠 78.6 %|🟠 85.7 %|🔴 14.3 %|🟢 92.9 %|🟢 92.9 %|🔴 7.1 %|🟢 92.9 %|🟠 78.6 %|🔴 28.6 %|🔴 7.1 %|🔴 0.0 %|🟢 92.9 %|🟠 85.7 %|
-|[Mod-Repo](https://github.com/vcmi-mods) Assets: sounds|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 23.8 %|🔴 23.8 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 5.0 %|🔴 0.0 %|🔴 0.0 %|🔴 5.0 %|🔴 0.0 %|
-|[Mod-Repo](https://github.com/vcmi-mods) Assets: sprites|🔴 67.1 %|🔴 0.0 %|🟢 100.0 %|🔴 58.5 %|🔴 6.1 %|🟢 98.8 %|🟢 100.0 %|🔴 0.0 %|🔴 56.1 %|🔴 34.1 %|🔴 0.0 %|🔴 50.0 %|🟢 97.6 %|🔴 65.9 %|🔴 0.0 %|🟢 98.8 %|🟢 100.0 %|🔴 8.5 %|🔴 0.0 %|🔴 0.0 %|🔴 58.5 %|🔴 58.5 %|
+|[Mod-Repo](https://github.com/vcmi-mods) Assets: data|🟠 71.4 %|🔴 14.3 %|🟢 100.0 %|🟠 85.7 %|🔴 14.3 %|🟢 92.9 %|🟢 100.0 %|🔴 28.6 %|🟠 78.6 %|🟠 78.6 %|🟠 85.7 %|🔴 14.3 %|🟢 92.9 %|🟢 92.9 %|🔴 7.1 %|🟢 92.9 %|🟠 78.6 %|🔴 28.6 %|🔴 7.1 %|🔴 7.1 %|🟢 92.9 %|🟠 85.7 %|
+|[Mod-Repo](https://github.com/vcmi-mods) Assets: sounds|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 23.8 %|🔴 23.8 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 5.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 5.0 %|🔴 0.0 %|🔴 0.0 %|🔴 5.0 %|🔴 0.0 %|
+|[Mod-Repo](https://github.com/vcmi-mods) Assets: sprites|🔴 67.1 %|🔴 0.0 %|🟢 100.0 %|🔴 58.5 %|🔴 6.1 %|🟢 98.8 %|🟢 100.0 %|🔴 0.0 %|🔴 56.1 %|🔴 35.4 %|🔴 0.0 %|🔴 50.0 %|🟢 97.6 %|🔴 65.9 %|🔴 0.0 %|🟢 98.8 %|🟢 100.0 %|🔴 9.8 %|🔴 0.0 %|🔴 0.0 %|🔴 58.5 %|🔴 58.5 %|
 |[Mod-Repo](https://github.com/vcmi-mods) Assets: video|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 50.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|
 
 ## QT tools translation
@@ -30,7 +30,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|belarusian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|bulgarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|czech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|chinese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|finnish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|french&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|german&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|greek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|hungarian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|italian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|japanese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|korean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|polish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|portuguese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|romanian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|russian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|spanish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|swedish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|norwegian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|turkish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|ukrainian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|vietnamese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|🔴 0.0 %|🔴 0.0 %|🔴 66.7 %|🔴 48.6 %|🔴 0.0 %|🔴 7.6 %|🔴 31.4 %|🔴 0.0 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 58.1 %|🔴 3.8 %|🔴 0.0 %|🔴 46.7 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 14.3 %|🔴 1.0 %|
+|Translated mods|🔴 0.0 %|🔴 0.0 %|🔴 66.7 %|🔴 52.4 %|🔴 0.0 %|🔴 7.6 %|🔴 31.4 %|🔴 0.0 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 58.1 %|🔴 3.8 %|🔴 0.0 %|🔴 46.7 %|🔴 3.8 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 14.3 %|🔴 1.0 %|
 
 ## Mods translation details
 
@@ -59,7 +59,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Tides of War](https://github.com/vcmi-mods/tides-of-war)|expansion|||x|x|||x||x||||x|||x|x||||x||
 |[Alternative town screens](https://github.com/vcmi-mods/alternate-townscreens)|graphical|||x||||||||||||||||||||
 |[Diverse Battlefields](https://github.com/vcmi-mods/diverse-battlefields)|graphical|||x||||||||||x||||||||||
-|[Ensrick's Portrait Pack](https://github.com/vcmi-mods/ensrick-portraits)|graphical|||x||||||||||||||||||||
+|[Ensrick's Portrait Pack](https://github.com/vcmi-mods/ensrick-portraits)|graphical|||x|x|||||||||||||||||||
 |[Erathian font [read description!]](https://github.com/vcmi-mods/erathian-font)|graphical|||x||||||||||||||||||||
 |[Hero movement arrows](https://github.com/vcmi-mods/movement-arrows)|graphical|||x||||||||||||||||||||
 |[Heroes III HD Edition Remastered](https://github.com/vcmi-mods/hd-remastered)|graphical|||x||||x||||||x|||x|||||x||
@@ -68,7 +68,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Portraits Packs](https://github.com/vcmi-mods/portraits-packs)|graphical|||x||||||||||||||||||||
 |[Small ERA II mods](https://github.com/vcmi-mods/small-era-mods)|graphical|||x||||||||||||||||||||
 |[Towns new views](https://github.com/vcmi-mods/towns-new-views)|graphical|||x||||||||||||||||||||
-|[VCMI extras](https://github.com/vcmi-mods/vcmi-extras)|graphical|||x||||||||||x||||||||||
+|[VCMI extras](https://github.com/vcmi-mods/vcmi-extras)|graphical|||x|x|||||||||x||||||||||
 |[Vivid Dwellings](https://github.com/vcmi-mods/vivid-battlefields)|graphical|||x||||||||||||||||||||
 |[Campaign Heroes](https://github.com/vcmi-mods/campaign-heroes)|heroes|||x|x|||x||||||x|||x|||||x||
 |[Immortal cultivation heroes](https://github.com/vcmi-mods/immortal-cultivation-heroes)|heroes||||x|||||||||||||||||||
@@ -78,7 +78,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Tarnum is back!](https://github.com/vcmi-mods/tarnum)|heroes|||x|x|||x||||||x||||||||||
 |[Heroes-o-pedia](https://github.com/vcmi-mods/heroes-o-pedia)|interface||||||||||||||x|||||||||
 |[High-res Menu](https://github.com/vcmi-mods/hi-rez-menu)|interface|||x||||||||||||||||||||
-|[Main Menu Themes Pack](https://github.com/vcmi-mods/h3-themes)|interface|||x||||||||||||||||||||
+|[Main Menu Themes Pack](https://github.com/vcmi-mods/h3-themes)|interface|||x|x|||||||||||||||||||
 |[Medusas are the best girls](https://github.com/vcmi-mods/medusa-mod)|interface|||||||||||||x|||x|||||||
 |[New-style Interface](https://github.com/vcmi-mods/new-interface-mod)|interface|||x||||||||||||||||||||
 |[A Song of Ice & Fire](https://github.com/vcmi-mods/a-song-of-ice-and-fire)|maps|||x|x|||x||x||||x|||x|||||x||
@@ -95,7 +95,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Invite hero](https://github.com/vcmi-mods/tavern-invite)|mechanics|||x|x|||x||||||x||||||||||
 |[More Secondary Skills](https://github.com/vcmi-mods/more-secondary)|mechanics|||x|x|||x||||||x|||x|||||x||
 |[Vampires only gameplay enhancements](https://github.com/vcmi-mods/vampires-only-gameplay-enhancements)|mechanics|||x||||||||||||||||||||
-|[Heroes 3 Extended Sountrack](https://github.com/vcmi-mods/heroes3-extended-soundtrack)|music|||x||||||||||||||||||||
+|[Heroes 3 Extended Sountrack](https://github.com/vcmi-mods/heroes3-extended-soundtrack)|music|||x|x|||||||||||||||||||
 |[Heroes III Orchestra](https://github.com/vcmi-mods/heroes-iii-orchestra)|music|||x||||||||||x||||||||||
 |[High-Quality Heroes Soundtrack](https://github.com/vcmi-mods/hq-music)|music|||x||||||||||x||||||||||
 |[New SFX Sounds for Heroes 3](https://github.com/vcmi-mods/new-sfx-sounds)|music|||x||||||||||||||||||||
