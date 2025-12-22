@@ -38,7 +38,7 @@ def get_languages():
     return languages
 
 def get_base_mod():
-    return load_vcmi_json(urllib.request.urlopen('https://raw.githubusercontent.com/vcmi/vcmi/develop/Mods/vcmi/mod.json').read())
+    return load_vcmi_json(urllib.request.urlopen('https://raw.githubusercontent.com/vcmi/vcmi/beta/Mods/vcmi/mod.json').read())
 
 def base_mod_existing(languages):
     vcmi_base_mod = get_base_mod()
@@ -46,12 +46,12 @@ def base_mod_existing(languages):
 
 def base_mod_ratio(languages):
     base_mod = get_base_mod()
-    translation_english = load_vcmi_json(urllib.request.urlopen('https://raw.githubusercontent.com/vcmi/vcmi/develop/Mods/vcmi/Content/' + base_mod["translations"][0]).read())
+    translation_english = load_vcmi_json(urllib.request.urlopen('https://raw.githubusercontent.com/vcmi/vcmi/beta/Mods/vcmi/Content/' + base_mod["translations"][0]).read())
 
     data = {}
 
     for language in [key for key, value in base_mod_existing(languages).items() if value == True]:
-        translation = load_vcmi_json(urllib.request.urlopen('https://raw.githubusercontent.com/vcmi/vcmi/develop/Mods/vcmi/Content/' + next(value for key, value in base_mod.items() if key == language)["translations"][0]).read())
+        translation = load_vcmi_json(urllib.request.urlopen('https://raw.githubusercontent.com/vcmi/vcmi/beta/Mods/vcmi/Content/' + next(value for key, value in base_mod.items() if key == language)["translations"][0]).read())
         count_equal = 0
         count_difference = 0
         count_only_english = 0
@@ -68,7 +68,7 @@ def base_mod_ratio(languages):
     return data
 
 def get_mod_repo():
-    settings_schema = load_vcmi_json(urllib.request.urlopen("https://raw.githubusercontent.com/vcmi/vcmi/develop/config/schemas/settings.json").read())
+    settings_schema = load_vcmi_json(urllib.request.urlopen("https://raw.githubusercontent.com/vcmi/vcmi/beta/config/schemas/settings.json").read())
     vcmi_mod_url = settings_schema["properties"]["launcher"]["properties"]["defaultRepositoryURL"]["default"]
     vcmi_mods = load_vcmi_json(urllib.request.urlopen(vcmi_mod_url).read())
     return vcmi_mods["availableMods"]
@@ -214,7 +214,7 @@ def get_qt_translations(languages):
             count_translated = 0
             count_untranslated = 0
             try:
-                tmp_str = urllib.request.urlopen("https://raw.githubusercontent.com/vcmi/vcmi/develop/" + type + "/translation/" + language + ".ts").read()
+                tmp_str = urllib.request.urlopen("https://raw.githubusercontent.com/vcmi/vcmi/beta/" + type + "/translation/" + language + ".ts").read()
             except:
                 tmp_str = ""
             if tmp_str != "":
