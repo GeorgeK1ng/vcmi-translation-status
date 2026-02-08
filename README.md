@@ -15,7 +15,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Mod-Repo](https://github.com/vcmi-mods) campaign|🟢 96.6 %|🔴 66.1 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 54.7 %|🔴 25.8 %|🔴 0.0 %|🟢 100.0 %|🟢 96.6 %|🟢 100.0 %|🟢 100.0 %|🟢 100.0 %|🟢 100.0 %|🔴 4.7 %|🔴 0.0 %|🟢 99.6 %|🟢 96.6 %|🔴 0.0 %|
 |[Mod-Repo](https://github.com/vcmi-mods) chronicles|🟢 100.0 %|🟢 100.0 %|🟢 100.0 %|🟢 99.8 %|🟢 100.0 %|🔴 65.2 %|🟢 99.8 %|🟢 100.0 %|🟢 100.0 %|🔴 65.2 %|🔴 0.0 %|🔴 0.0 %|🟢 99.8 %|🟢 100.0 %|🟢 100.0 %|🟢 99.8 %|🔴 65.2 %|🟢 99.9 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|
 |[Mod-Repo](https://github.com/vcmi-mods) Assets: data|🟠 71.4 %|🔴 35.7 %|🟢 100.0 %|🟠 85.7 %|🔴 35.7 %|🟢 92.9 %|🟢 100.0 %|🔴 35.7 %|🟠 78.6 %|🟠 85.7 %|🟠 85.7 %|🔴 28.6 %|🟢 92.9 %|🟢 92.9 %|🔴 28.6 %|🟢 92.9 %|🟠 78.6 %|🔴 35.7 %|🔴 28.6 %|🟢 100.0 %|🟢 92.9 %|🟠 85.7 %|
-|[Mod-Repo](https://github.com/vcmi-mods) Assets: sounds|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 23.8 %|🔴 23.8 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 5.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 9.9 %|🔴 0.0 %|🟢 100.0 %|🔴 5.0 %|🔴 0.0 %|
+|[Mod-Repo](https://github.com/vcmi-mods) Assets: sounds|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 23.8 %|🔴 23.8 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 5.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 9.9 %|🔴 0.0 %|🟢 100.0 %|🔴 6.9 %|🔴 0.0 %|
 |[Mod-Repo](https://github.com/vcmi-mods) Assets: sprites|🔴 67.1 %|🔴 22.0 %|🟢 100.0 %|🔴 58.5 %|🔴 17.1 %|🟢 98.8 %|🟢 100.0 %|🔴 18.3 %|🔴 56.1 %|🔴 52.4 %|🔴 0.0 %|🔴 50.0 %|🟢 97.6 %|🔴 65.9 %|🔴 18.3 %|🟢 98.8 %|🟢 100.0 %|🔴 22.0 %|🔴 17.1 %|🔴 48.8 %|🔴 58.5 %|🔴 58.5 %|
 |[Mod-Repo](https://github.com/vcmi-mods) Assets: video|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🟢 100.0 %|🔴 50.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🟢 100.0 %|🟢 100.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|🔴 0.0 %|
 
@@ -53,6 +53,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[H3Evo](https://github.com/vcmi-mods/h3Evo)|expansion|||||||||||||||||||||||
 |[Horn of the Abyss](https://github.com/vcmi-mods/hota)|expansion|||x|x||x|x||||||x|x||x|x||||x||
 |[In The Wake of Gods](https://github.com/vcmi-mods/wake-of-gods)|expansion|||x|x|||x||||||x|x||x|x|||x|x||
+|[Kremlin Expansion](https://github.com/vcmi-mods/kremlin-town)|expansion||||x|||||||||x|||x|||||||
 |[Third Upgrades Mod](https://github.com/vcmi-mods/third-upgrades)|expansion||||x||||||||||||x|||||||
 |[Tides of War](https://github.com/vcmi-mods/tides-of-war)|expansion|||x|x|||x||x||||x|||x|x|||x|x||
 |[Alternative town screens](https://github.com/vcmi-mods/alternate-townscreens)|graphical|||x||||||||||||||||||||
@@ -131,7 +132,6 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Haven](https://github.com/vcmi-mods/haven-town)|town|||x|x|||x||||||x|||x|||||||
 |[Heavenly Forge 2000](https://github.com/vcmi-mods/forge2k)|town||||x|||x||||||x|||x|||||x||
 |[Highlands Town](https://github.com/vcmi-mods/highlands-town)|town|||x|x||x|x||||||x|||x|||||||
-|[Kremlin town](https://github.com/vcmi-mods/kremlin-town)|town||||x|||||||||x|||x|||||||
 |[Pavilion Town](https://github.com/vcmi-mods/new-pavilion)|town|||x|x||x|x||||||x|x||x|||||||
 |[Preserve Town](https://github.com/vcmi-mods/preserve-town)|town||||x|||x||||||x|||x|||||||
 |[Refugee Town (Refuge)](https://github.com/vcmi-mods/refugee-town)|town||||x||x|x||||||x|||x|||||||
